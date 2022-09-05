@@ -73,9 +73,13 @@ https://scratch.mit.edu/projects/715025468
 Neste curso, adotamos um conjunto de pilares para orientar a construção da solução para um problema de acordo com o processo de Pensamento Computacional. Diga qual das alternativas lista o conjunto adotado no curso. 
 
 I. Utilizar tecnologias digitais de informação e comunicação de forma crítica. 
+
 II. Decompor o problema.
+
 III. Reconhecer padrões recorrentes.
+
 IV. Abstrair tarefas e seus dados de entrada e saída.
+
 V. Explicitar algoritmo que resolve o problema.
 
 |   |    |
@@ -102,3 +106,91 @@ https://scratch.mit.edu/projects/714942464/fullscreen/
 
 ### por que pensamento computacional
 - base nacional comum curricular (bncc)
+
+
+## Quiz: videoaula 02
+Quando decompomos uma tarefa em subtarefas, podemos identificar situações em que algumas subtarefas podem ser realizadas em paralelo. Por exemplo no caso da tarefa “Montar uma pizza”, identificamos as seguintes subtarefas: 
+
+I. Pegar ingredientes de acordo com o sabor.
+
+II. Preparar uma massa.
+
+III. Colocar recheio.
+
+IV. Colocar cobertura.
+
+V. Disponibilizar pizza montada.
+
+Diga qual das alternativas lista o conjunto de subtarefas que pode ser realizado em paralelo no escopo da tarefa “Montar uma pizza”. 
+
+|   |    |
+|:---|:---|
+| &check; | I e II |
+|  | I, II, III e IV |
+|  | III, IV e V |
+|  | III e V |
+|  | I, II e III |
+
+
+## Texto-base: Pensamento Computacional: pilares e algoritmos do dia a dia - Maria da Graça Campos Pimentel
+
+## Material-base: Animação da Joaninha
+https://scratch.mit.edu/projects/714894474/
+
+## Texto-base: Pensamento Computacional/Conceitos e Pilares do Pensamento Computacional - Ronaldo Correia
+
+## Quiz - Objeto Educacional - Semana 1
+
+
+## Revisitando Conhecimentos
+- **Material de apoio 1**: Receita de pudim de leite condensado de micro-ondas | Vaquinha Mococa
+
+Sabia que dá para fazer um pudim de leite condensado de micro-ondas? Um exemplo é essa receita. Como você modificaria a receita para preparar um pudim de café ou cacau? E se você quiser fazer sem a calda de açúcar, como seria?
+
+
+- **Material de apoio 2**: Aprender divisão é mais que dividir | Tatiana Pinheiro
+
+Você lembra como fazer divisão com lápis e papel? E como ensinar alguém essa habilidade? Veja uma sugestão nesse breve texto.
+
+
+- **Material de apoio 3**: Faxina em casa | wikiHow
+
+Que receita você utiliza para limpar a sua casa? Algo assim?
+
+
+- **Material de apoio 4**: Base Nacional Comum Curricular (BNCC) (Ler páginas 7-10) | MEC
+
+A Base Nacional Comum Curricular (BNCC) “é um documento de caráter normativo que define o conjunto orgânico e progressivo de aprendizagens essenciais que todos os alunos devem desenvolver ao longo das etapas e modalidades da Educação Básica.”
+
+
+- **Material de apoio 5**: Pensamento Computacional (Ler página 474) | MEC
+
+A BNCC esclarece que pensamento computacional envolve as capacidades de compreender, analisar, definir, modelar, resolver, comparar e automatizar problemas e suas soluções, de forma metódica e sistemática, por meio do desenvolvimento de algoritmos.
+<br><br>
+
+
+## Atividade Avaliativa
+
+
+## Desafio
+Urnas Eletrônicas
+
+Urnas eletrônicas existem como modo de votação para pleitos eleitorais no Brasil desde 1996. Sua implementação ocorreu para que houvesse uma maior transparência e equidade nos processos eleitorais em um país com dimensões continentais como é o nosso. O Brasil é hoje o protagonista da maior eleição informatizada do mundo.
+
+Apesar da aparente simplicidade de uso, e de estar disponível para gerações de eleitores há 26 anos, a urna eletrônica é um dispositivo computacional que não pertence à rotina das pessoas. Para permitir que eleitores conheçam o dispositivo e treinem a votação com antecedência, a cada eleição o Tribunal Superior Eleitoral (TSE) oferece um simulador de voto:
+
+https://www.tse.jus.br/eleicoes/urna-eletronica/simulacao-de-votacao
+
+Para este desafio, utilize o Simulador de Voto do TSE e, a seguir, elabore uma descrição dos pilares do Pensamento Computacional correspondentes. Considerando o atendimento a um determinado eleitor em sua tarefa de votar, descreva:
+
+Como a urna eletrônica combina soluções que resolvem problemas menores?
+Como a urna eletrônica explora padrões recorrentes no próprio problema?
+Quais são as tarefas essenciais e os dados de entrada e saída relativamente a cada voto?
+Defina um algoritmo que descreve o programa da urna eletrônica que permite a um eleitor votar em uma eleição qualquer. Descreva o algoritmo na forma de uma sequência de instruções não ambíguas que resolve o problema de forma a produzir, em um período finito, a saída correspondente para qualquer entrada legítima.
+<br><br>
+
+
+## Aprofundando no tema
+
+
+## Em síntese

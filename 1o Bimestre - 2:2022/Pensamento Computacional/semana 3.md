@@ -1,0 +1,3 @@
+# SEMANA 3 - DISPOSITIVOS COMPUTACIONAIS: INTERNET, WEB, EAD
+
+## Objetivos da semana:
