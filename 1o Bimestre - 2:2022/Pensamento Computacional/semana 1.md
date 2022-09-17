@@ -1,6 +1,7 @@
 # SEMANA 1 - PENSAMENTO COMPUTACIONAL: PILARES. 
 # ALGORITMOS DO DIA A DIA
 
+
 ## Objetivos da semana:
 - listar atividades rotineiras às apresentadas em aula
 - rotular e descrever o conteúdo dos pilares do conhecimento computacional correspondentes
@@ -108,7 +109,7 @@ https://scratch.mit.edu/projects/714942464/fullscreen/
 - base nacional comum curricular (bncc)
 
 
-## Quiz: videoaula 02
+## Quiz: videoaula 03
 Quando decompomos uma tarefa em subtarefas, podemos identificar situações em que algumas subtarefas podem ser realizadas em paralelo. Por exemplo no caso da tarefa “Montar uma pizza”, identificamos as seguintes subtarefas: 
 
 I. Pegar ingredientes de acordo com o sabor.
