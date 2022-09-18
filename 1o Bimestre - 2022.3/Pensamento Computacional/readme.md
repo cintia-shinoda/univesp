@@ -1,4 +1,4 @@
-# Pensamento Computacional
+# Pensamento Computacional - COM100 - turma 008
 
 
 ## Semana 1
@@ -57,9 +57,4 @@
 
 |  |  |  |  |
 |:---:|:---:|:---|:---|
-
-
-## Semana 7
-
-|  |  |  |  |
-|:---:|:---:|:---|:---|
+| &check; |  | Atividade Avaliativa - 6 |  |
