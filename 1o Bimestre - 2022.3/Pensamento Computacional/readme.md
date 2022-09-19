@@ -43,6 +43,12 @@
 
 |  |  |  |  |
 |:---:|:---:|:---|:---|
+| &check; |  | Videoaula 10 |  |
+| &check; |  | Quiz 10 |  |
+| &check; |  | Videoaula 11 |  |
+| &check; |  | Quiz 11 |  |
+| &check; |  | Videoaula 12 |  |
+| &check; |  | Quiz 12 |  |
 | &check; |  | Atividade Avaliativa - 4 |  |
 
 
