@@ -41,3 +41,19 @@ O que é informatividade?
 
 
 ## Videoaula 10 - A clareza na comunicação
+https://youtu.be/VGy8zU90oC8
+
+- destruição de um mito
+- paralelismo
+- introdução
+
+
+## Quiz 10
+Qual o nome do defeito textual que abusa das palavras, prolonga o discurso, mas acaba dizendo pouco? 
+|   |    |
+|:---|:---|
+|  | Clareza. |
+|  | Pleonasmo. |
+|  | Prolixidade. |
+|  | Redundância. |
+|  | Eco.
