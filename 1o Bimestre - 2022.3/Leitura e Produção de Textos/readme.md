@@ -5,6 +5,10 @@
 
 |  |  |  |  |
 |:---:|:---:|:---|:---|
+| &check; |  | Videoaula 1 |  |
+| &check; |  | Quiz 1 |  |
+| &check; |  | Videoaula 2 |  |
+| &check; |  | Quiz 2 |  |
 | &check; |  | Atividade Avaliativa - 1 |  |
 
 
@@ -12,6 +16,10 @@
 
 |  |  |  |  |
 |:---:|:---:|:---|:---|
+| &check; |  | Videoaula 3 |  |
+| &check; |  | Quiz 3 |  |
+| &check; |  | Videoaula 4 |  |
+| &check; |  | Quiz 4 |  |
 | &check; |  | Atividade Avaliativa - 2 |  |
 
 
