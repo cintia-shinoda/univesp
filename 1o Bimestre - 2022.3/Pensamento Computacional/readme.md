@@ -56,6 +56,12 @@
 
 |  |  |  |  |
 |:---:|:---:|:---|:---|
+| &check; |  | Videoaula 13 |  |
+| &check; |  | Quiz 13 |  |
+| &check; |  | Videoaula 14 |  |
+| &check; |  | Quiz 14 |  |
+| &check; |  | Videoaula 15 |  |
+| &check; |  | Quiz 15 |  |
 | &check; |  | Atividade Avaliativa - 5 |  |
 
 
@@ -63,4 +69,23 @@
 
 |  |  |  |  |
 |:---:|:---:|:---|:---|
+| &check; |  | Videoaula 16 |  |
+| &check; |  | Quiz 16 |  |
+| &check; |  | Videoaula 17 |  |
+| &check; |  | Quiz 17 |  |
+| &check; |  | Videoaula 18 |  |
+| &check; |  | Quiz 18 |  |
 | &check; |  | Atividade Avaliativa - 6 |  |
+
+
+## Semana 7
+
+|  |  |  |  |
+|:---:|:---:|:---|:---|
+| &check; |  | Videoaula 19 |  |
+| &check; |  | Quiz 19 |  |
+| &check; |  | Videoaula 20 |  |
+| &check; |  | Quiz 20 |  |
+| &check; |  | Videoaula 21 |  |
+| &check; |  | Quiz 21 |  |
+| &check; |  | Atividade Avaliativa - 7 |  |
