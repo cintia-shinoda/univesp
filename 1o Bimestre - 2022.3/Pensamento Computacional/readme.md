@@ -2,20 +2,21 @@
 
 
 ## Semana 1
+### Pensamento Computacional: Pilares, Algoritmos do dia a dia
 
 |  |  |  |  |
 |:---:|:---:|:---|:---|
-| &check; |  | Videoaula 1 |  |
+| &check; |  | Videoaula 1 | Pensamento Computacional: Introdução |
 | &check; |  | Quiz 1 |  |
-| &check; |  | Videoaula 2 |  |
+| &check; |  | Videoaula 2 | Pensamento Computacional aplicado a tarefas rotineiras |
 | &check; |  | Quiz 2 |  |
-| &check; |  | Videoaula 3 |  |
+| &check; |  | Videoaula 3 | Pensamento Computacional aplicado a uma tarefa colaborativa |
 | &check; |  | Quiz 3 |  |
-| &check; |  | Atividade Avaliativa - 1 |  |
+| &check; |  | Atividade Avaliativa - 1 | 10/10 |
 
 
 ## Semana 2
-
+### Navegação, Pesquisa, Filtragem, Interação, Colaboração e Compartilhamento: Canais Digitais e Abstrações
 |  |  |  |  |
 |:---:|:---:|:---|:---|
 | &check; |  | Videoaula 4 |  |
