@@ -9,5 +9,9 @@
 ## Videoaula 01 - Ética
 https://youtu.be/A3AmnB71z-w
 
-- ética = moral
+- neste curso: ética = moral
+
+- plano moral:
+    - normativo: regra
+    - factual: ação
 
