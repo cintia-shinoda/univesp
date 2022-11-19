@@ -5,7 +5,7 @@
 | &check; |  | 2 | 17/10 | Números Inteiros e sua divisibilidade |
 | &check; |  | 3 | 24/10 | Números Racionais, Reais e operações |
 | &check; |  | 4 | 31/10 | Problemas matemáticos |
-|  |  | 5 | 07/11 | Razão e Proporção |
+| &check; |  | 5 | 07/11 | Razão e Proporção |
 |  |  | 6 | 14/11 | Regra de três |
 |  |  | 7 | 21/11 | Porcentagem |
 |  |  | 8 | 21/11 | Revisão |
