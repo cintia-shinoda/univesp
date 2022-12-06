@@ -30,3 +30,12 @@
 
 
 ## Semana 2 - Learning to Read: Estratégias para leitura de textos em geral e de uma área de estudos
+
+|  |  |  |  |
+|:---:|:---:|:---|:---|
+
+
+
+## Semana 3 - English around the world: o uso da língua em interações e comunicações interculturais
+|  |  |  |  |
+|:---:|:---:|:---|:---|
