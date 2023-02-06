@@ -2,18 +2,32 @@
 
 ## [1o. Bimestre - 2022.3](https://github.com/cintia-shinoda/univesp/tree/master/1o%20Bimestre%20-%202022.3)
 
-|  |  |  |  |
-|:---:|:---|:---:|:---:|
-|  | [Pensamento Computacional](https://github.com/cintia-shinoda/univesp/tree/master/1o%20Bimestre%20-%202022.3/Pensamento%20Computacional) | 80h | 9,4 / 10,0 |
-|  | [Leitura e Produção de Textos](https://github.com/cintia-shinoda/univesp/tree/master/1o%20Bimestre%20-%202022.3/Leitura%20e%20Produ%C3%A7%C3%A3o%20de%20Textos) | 80h | 8,8 / 10,0 |
-|  | [Ética, Cidadania e Sociedade](https://github.com/cintia-shinoda/univesp/tree/master/1o%20Bimestre%20-%202022.3/%C3%89tica%2C%20Cidadania%20e%20Sociedade) | 40h | 8,2 / 10,0 |
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+| &check; | [Pensamento Computacional](https://github.com/cintia-shinoda/univesp/tree/master/1o%20Bimestre%20-%202022.3/Pensamento%20Computacional) | 80h | 10 | 9 | 9,4 |
+| &check; | [Leitura e Produção de Textos](https://github.com/cintia-shinoda/univesp/tree/master/1o%20Bimestre%20-%202022.3/Leitura%20e%20Produ%C3%A7%C3%A3o%20de%20Textos) | 80h | 10 | 8 | 8,8 |
+| &check; | [Ética, Cidadania e Sociedade](https://github.com/cintia-shinoda/univesp/tree/master/1o%20Bimestre%20-%202022.3/%C3%89tica%2C%20Cidadania%20e%20Sociedade) | 40h | 10 | 7 | 8,2 |
+
+<br><br>
 
 
 
 ## [2o. Bimestre - 2022.4](https://github.com/cintia-shinoda/univesp/tree/master/2o%20Bimestre%20-%202022.4)
 
-|  |  |  |   |
-|:---:|:---|:---:|:---:|
-|  | [Matemática Básica](https://github.com/cintia-shinoda/univesp/tree/master/2o%20Bimestre%20-%202022.4/Matem%C3%A1tica%20B%C3%A1sica) | 80h |  |
-|  | [Inglês](https://github.com/cintia-shinoda/univesp/tree/master/2o%20Bimestre%20-%202022.4/Ingl%C3%AAs) | 80h |  |
-|  | [Projetos e Métodos para a Produção do Conhecimento](https://github.com/cintia-shinoda/univesp/tree/master/2o%20Bimestre%20-%202022.4/Projetos%20e%20M%C3%A9todos%20para%20a%20Produ%C3%A7%C3%A3o%20do%20Conhecimento) | 40h |  |
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+| &check; | [Matemática Básica](https://github.com/cintia-shinoda/univesp/tree/master/2o%20Bimestre%20-%202022.4/Matem%C3%A1tica%20B%C3%A1sica) | 80h | 10 | 10 | 10 |
+| &check; | [Inglês](https://github.com/cintia-shinoda/univesp/tree/master/2o%20Bimestre%20-%202022.4/Ingl%C3%AAs) | 80h | 10 | 10 | 10 |
+| &check; | [Projetos e Métodos para a Produção do Conhecimento](https://github.com/cintia-shinoda/univesp/tree/master/2o%20Bimestre%20-%202022.4/Projetos%20e%20M%C3%A9todos%20para%20a%20Produ%C3%A7%C3%A3o%20do%20Conhecimento) | 40h | 10 | 7 | 8,2 |
+
+<br><br>
+
+
+
+## 3o. Bimestre - 2023.1
+
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+|  | Algoritmos e Programação de Computadores I |  |  |
+|  | Cálculo I |  |  |
+|  | Introdução a Conceitos de Computação |  |  |
