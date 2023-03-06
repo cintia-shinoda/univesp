@@ -8,3 +8,7 @@ https://youtu.be/s3AKKqPclSw
 
 
 ## Quiz 1
+
+## Videoaula 2 - 
+
+## Quiz 2
