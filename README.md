@@ -1,6 +1,7 @@
 # UNIVESP - Ciência de Dados
 
-### [1o. Bimestre - 2022.3](https://github.com/cintia-shinoda/univesp/tree/master/1o%20Bimestre%20-%202022.3)
+## 1o. Semestre
+#### [1o. Bimestre - 2022.3](https://github.com/cintia-shinoda/univesp/tree/master/1o%20Bimestre%20-%202022.3)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -11,7 +12,7 @@
 <br>
 
 
-## [2o. Bimestre - 2022.4](https://github.com/cintia-shinoda/univesp/tree/master/2o%20Bimestre%20-%202022.4)
+#### [2o. Bimestre - 2022.4](https://github.com/cintia-shinoda/univesp/tree/master/2o%20Bimestre%20-%202022.4)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -22,11 +23,23 @@
 <br><br>
 
 
-
-## [3o. Bimestre - 2023.1](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1)
+## 2o. Semestre
+#### [3o. Bimestre - 2023.1](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | [Algoritmos e Programação de Computadores I](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1/Algoritmos%20e%20Programa%C3%A7%C3%A3o%20de%20Computadores%20I) | 80h |  |  |  |
-|  | [Cálculo I](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1/C%C3%A1lculo%20I) | 80h |  |  |  |
+|  | [Algoritmos e Programação de Computadores I](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1/Algoritmos%20e%20Programa%C3%A7%C3%A3o%20de%20Computadores%20I) | 80h | 10 |  |  |
+|  | [Cálculo I](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1/C%C3%A1lculo%20I) | 80h | 10 |  |  |
 |  | [Introdução a Conceitos de Computação](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1/Intro%20a%20Conceitos%20de%20Computa%C3%A7%C3%A3o) | 40h |  |  |  |
+
+<br><br>
+
+
+
+#### [4o. Bimestre - 2023.2]()
+
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+|  | [Algoritmos e Programação de Computadores II]() | 80h |  |  |  |
+|  | [Fundamentos Matemáticos para Computação]() | 80h |  |  |  |
+|  | [Fundamentos de Web]() | 40h |  |  |  |
