@@ -36,10 +36,10 @@
 
 
 
-#### [4o. Bimestre - 2023.2]()
+#### [4o. Bimestre - 2023.2](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | [Algoritmos e Programação de Computadores II]() | 80h |  |  |  |
-|  | [Fundamentos Matemáticos para Computação]() | 80h |  |  |  |
-|  | [Fundamentos de Web]() | 40h |  |  |  |
+|  | [Algoritmos e Programação de Computadores II](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2/Algoritmos%20e%20Programa%C3%A7%C3%A3o%20de%20Computadores%20II) | 80h |  |  |  |
+|  | [Fundamentos Matemáticos para Computação](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2/Fundamentos%20Matem%C3%A1ticos%20para%20Computa%C3%A7%C3%A3o) | 80h |  |  |  |
+|  | [Fundamentos de Web](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2/Fundamentos%20de%20Internet%20e%20Web) | 40h |  |  |  |
