@@ -11,5 +11,8 @@
 [] solucione os exercícios práticos propostos.
 
 
-## Videoaula - Revisitando Conhecimentos
+## Videoaula 0 - Revisitando Conhecimentos
 - Operações lógicas e tabela-verdade
+
+
+## Videoaula 1 - 
