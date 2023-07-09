@@ -1,7 +1,7 @@
-# UNIVESP - Ciência de Dados
+## UNIVESP - Ciência de Dados
 
-## 1o. Semestre
-#### [1o. Bimestre - 2022.3](https://github.com/cintia-shinoda/univesp/tree/master/1o%20Bimestre%20-%202022.3)
+### ```1o. Semestre```
+##### [1o. Bimestre - 2022.3](https://github.com/cintia-shinoda/univesp/tree/master/1o%20Bimestre%20-%202022.3)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -12,7 +12,7 @@
 <br>
 
 
-#### [2o. Bimestre - 2022.4](https://github.com/cintia-shinoda/univesp/tree/master/2o%20Bimestre%20-%202022.4)
+##### [2o. Bimestre - 2022.4](https://github.com/cintia-shinoda/univesp/tree/master/2o%20Bimestre%20-%202022.4)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -23,23 +23,45 @@
 <br><br>
 
 
-## 2o. Semestre
-#### [3o. Bimestre - 2023.1](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1)
+### ```2o. Semestre```
+##### [3o. Bimestre - 2023.1](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | [Algoritmos e Programação de Computadores I](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1/Algoritmos%20e%20Programa%C3%A7%C3%A3o%20de%20Computadores%20I) | 80h | 10 |  |  |
-|  | [Cálculo I](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1/C%C3%A1lculo%20I) | 80h | 10 |  |  |
-|  | [Introdução a Conceitos de Computação](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1/Intro%20a%20Conceitos%20de%20Computa%C3%A7%C3%A3o) | 40h |  |  |  |
+| &check; | [Algoritmos e Programação de Computadores I](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1/Algoritmos%20e%20Programa%C3%A7%C3%A3o%20de%20Computadores%20I) | 80h | 10 | 10 | 10 |
+| &check; | [Cálculo I](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1/C%C3%A1lculo%20I) | 80h | 10 | 7 | 8,2 |
+| &check; | [Introdução a Conceitos de Computação](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1/Intro%20a%20Conceitos%20de%20Computa%C3%A7%C3%A3o) | 40h | 10 | 7 | 8,2 |
+
+<br>
+
+
+##### [4o. Bimestre - 2023.2](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2)
+
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+| &check; | [Algoritmos e Programação de Computadores II](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2/Algoritmos%20e%20Programa%C3%A7%C3%A3o%20de%20Computadores%20II) | 80h | 10 | 8 | 8,8 |
+| &check; | [Fundamentos Matemáticos para Computação](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2/Fundamentos%20Matem%C3%A1ticos%20para%20Computa%C3%A7%C3%A3o) | 80h | 10 | 7 | 8,2 |
+| &check; | [Fundamentos de Internet e Web](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2/Fundamentos%20de%20Internet%20e%20Web) | 40h | 10 | 8 | 8,8 |
 
 <br><br>
 
 
-
-#### [4o. Bimestre - 2023.2](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2)
+### ```3o. Semestre```
+##### [5o. Bimestre - 2023.3]()
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | [Algoritmos e Programação de Computadores II](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2/Algoritmos%20e%20Programa%C3%A7%C3%A3o%20de%20Computadores%20II) | 80h |  |  |  |
-|  | [Fundamentos Matemáticos para Computação](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2/Fundamentos%20Matem%C3%A1ticos%20para%20Computa%C3%A7%C3%A3o) | 80h |  |  |  |
-|  | [Fundamentos de Web](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2/Fundamentos%20de%20Internet%20e%20Web) | 40h |  |  |  |
+|  | [Sistemas Computacionais]() | 80h |  |  |  |
+|  | [Estruturas de Dados]() | 80h |  |  |  |
+|  | [Formação Profissional em Computação]() | 40h |  |  |  |
+
+<br><br>
+
+
+##### [6o. Bimestre - 2023.4]()
+
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+|  | [Estatística e Probabilidade]() | 80h |  |  |  |
+|  | [Programação Orientada a Objetos]() | 80h |  |  |  |
+|  | [ Gestão da Inovação e Desenvolvimento de Produtos]() | 40h |  |  |  |
