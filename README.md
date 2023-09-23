@@ -22,6 +22,8 @@
 
 <br><br>
 
+---
+
 
 ### ```2o. Semestre```
 ##### [3o. Bimestre - 2023.1](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1)
@@ -45,17 +47,19 @@
 
 <br><br>
 
+---
+
 
 ### ```3o. Semestre```
-##### [5o. Bimestre - 2023.3]()
+##### [5o. Bimestre - 2023.3](https://github.com/cintia-shinoda/univesp/tree/master/5o.%20Bimestre%20-%202023.3)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | [Sistemas Computacionais]() | 80h |  |  |  |
-|  | [Estruturas de Dados]() | 80h |  |  |  |
-|  | [Formação Profissional em Computação]() | 40h |  |  |  |
+|  | [Sistemas Computacionais](https://github.com/cintia-shinoda/univesp/tree/master/5o.%20Bimestre%20-%202023.3/Sistemas%20Computacionais) | 80h | 10 |  |  |
+|  | [Estruturas de Dados](https://github.com/cintia-shinoda/univesp/tree/master/5o.%20Bimestre%20-%202023.3/Estruturas%20de%20Dados) | 80h | 10 |  |  |
+|  | [Formação Profissional em Computação](https://github.com/cintia-shinoda/univesp/tree/master/5o.%20Bimestre%20-%202023.3/Forma%C3%A7%C3%A3o%20Profissional%20em%20Computa%C3%A7%C3%A3o) | 40h | 10 |  |  |
 
-<br><br>
+<br>
 
 
 ##### [6o. Bimestre - 2023.4]()
@@ -64,4 +68,4 @@
 |:---:|:---|:---:|:---:|:---:|:---:|
 |  | [Estatística e Probabilidade]() | 80h |  |  |  |
 |  | [Programação Orientada a Objetos]() | 80h |  |  |  |
-|  | [ Gestão da Inovação e Desenvolvimento de Produtos]() | 40h |  |  |  |
+|  | [Gestão da Inovação e Desenvolvimento de Produtos]() | 40h |  |  |  |

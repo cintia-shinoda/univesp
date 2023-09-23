@@ -4,7 +4,7 @@
 
 |   | AVA | semana | início | vencimento | conteúdo |
 |:---:|:---:|:---:|:---:|:---:|:---|
-|  |  | 1 | 24/07/2023 | 07/08/2023 | A linguagem C++ |
+| &check; |  | 1 | 24/07/2023 | 07/08/2023 | A linguagem C++ |
 |  |  | 2 | 31/07/2023 | 14/08/2023 | As visões das Estruturas de Dados |
 |  |  | 3 | 07/08/2023 | 21/08/2023 | Organização dos Dados na Memória (contíguo ou disperso) |
 |  |  | 4 | 14/08/2023 | 28/08/2023 | Tabela Hash |
