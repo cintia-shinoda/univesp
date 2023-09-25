@@ -62,10 +62,10 @@
 <br>
 
 
-##### [6o. Bimestre - 2023.4]()
+##### [6o. Bimestre - 2023.4](https://github.com/cintia-shinoda/univesp/tree/master/6o%20Bimestre%20-%202023.4)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | [Estatística e Probabilidade]() | 80h |  |  |  |
-|  | [Programação Orientada a Objetos]() | 80h |  |  |  |
-|  | [Gestão da Inovação e Desenvolvimento de Produtos]() | 40h |  |  |  |
+|  | [Estatística e Probabilidade](https://github.com/cintia-shinoda/univesp/tree/master/6o%20Bimestre%20-%202023.4/Estat%C3%ADstica%20e%20Probabilidade) | 80h |  |  |  |
+|  | [Programação Orientada a Objetos](https://github.com/cintia-shinoda/univesp/tree/master/6o%20Bimestre%20-%202023.4/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos) | 80h |  |  |  |
+|  | [Gestão da Inovação e Desenvolvimento de Produtos](https://github.com/cintia-shinoda/univesp/tree/master/6o%20Bimestre%20-%202023.4/Gest%C3%A3o%20da%20Inova%C3%A7%C3%A3o%20e%20Desenvolvimento%20de%20Produtos) | 40h |  |  |  |
