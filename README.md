@@ -55,9 +55,9 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | [Sistemas Computacionais](https://github.com/cintia-shinoda/univesp/tree/master/5o.%20Bimestre%20-%202023.3/Sistemas%20Computacionais) | 80h | 10 |  |  |
-|  | [Estruturas de Dados](https://github.com/cintia-shinoda/univesp/tree/master/5o.%20Bimestre%20-%202023.3/Estruturas%20de%20Dados) | 80h | 10 |  |  |
-|  | [Formação Profissional em Computação](https://github.com/cintia-shinoda/univesp/tree/master/5o.%20Bimestre%20-%202023.3/Forma%C3%A7%C3%A3o%20Profissional%20em%20Computa%C3%A7%C3%A3o) | 40h | 10 |  |  |
+| &check; | [Sistemas Computacionais](https://github.com/cintia-shinoda/univesp/tree/master/5o.%20Bimestre%20-%202023.3/Sistemas%20Computacionais) | 80h | 10 | 7 | 8,2 |
+| &check; | [Estruturas de Dados](https://github.com/cintia-shinoda/univesp/tree/master/5o.%20Bimestre%20-%202023.3/Estruturas%20de%20Dados) | 80h | 10 | 6 | 7,6 |
+| &check; | [Formação Profissional em Computação](https://github.com/cintia-shinoda/univesp/tree/master/5o.%20Bimestre%20-%202023.3/Forma%C3%A7%C3%A3o%20Profissional%20em%20Computa%C3%A7%C3%A3o) | 40h | 10 | 10 | 10 |
 
 <br>
 
