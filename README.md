@@ -81,5 +81,5 @@
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
 |  | Projeto Integrador I | h |  |  |  |
-|  | Banco de Dados | h |  |  |  |
-|  | Cálculo II | h |  |  |  |
+|  | Banco de Dados | 80h |  |  |  |
+|  | Cálculo II | 80h |  |  |  |
