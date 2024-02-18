@@ -4,7 +4,7 @@
 
 |   | AVA | semana | início | vencimento | conteúdo |
 |:---:|:---:|:---:|:---:|:---:|:---|
-|  |  | 1 | 29/01/2024 | 12/02/2024 | Funções de várias variáveis |
+|  | &check; | 1 | 29/01/2024 | 12/02/2024 | Funções de várias variáveis |
 |  |  | 2 | 05/02/2023 | 19/02/2024 | Teorema de Fubini |
 |  |  | 3 | 12/02/2024 | 26/02/2024 | Coordenadas polares, cilíndricas e esféricas. Campos vetoriais e escalares |
 |  |  | 4 | 19/02/2024 | 04/03/2024 | Curvas, integrais de linha e campos conservativos |
