@@ -5,12 +5,12 @@
 |   | AVA | semana | início | vencimento | conteúdo |
 |:---:|:---:|:---:|:---:|:---:|:---|
 | &check; |  | 1 | 24/07/2023 | 07/08/2023 | A linguagem C++ |
-|  |  | 2 | 31/07/2023 | 14/08/2023 | As visões das Estruturas de Dados |
-|  |  | 3 | 07/08/2023 | 21/08/2023 | Organização dos Dados na Memória (contíguo ou disperso) |
-|  |  | 4 | 14/08/2023 | 28/08/2023 | Tabela Hash |
-|  |  | 5 | 21/08/2023 | 04/09/2023 | Árvores Binárias de Busca |
-|  |  | 6 | 28/08/2023 | 11/09/2023 | Árvores AVL e Grafos |
-|  |  | 7 | 04/09/2023 | 11/09/2023 | Aplicações de Grafos Page-Rank |
+|  | &check; | 2 | 31/07/2023 | 14/08/2023 | As visões das Estruturas de Dados |
+|  | &check; | 3 | 07/08/2023 | 21/08/2023 | Organização dos Dados na Memória (contíguo ou disperso) |
+|  | &check; | 4 | 14/08/2023 | 28/08/2023 | Tabela Hash |
+|  | &check; | 5 | 21/08/2023 | 04/09/2023 | Árvores Binárias de Busca |
+|  | &check; | 6 | 28/08/2023 | 11/09/2023 | Árvores AVL e Grafos |
+|  | &check; | 7 | 04/09/2023 | 11/09/2023 | Aplicações de Grafos Page-Rank |
 |  |  | 8 | 11/09/2023 | - | Revisão |
 
 <br>
