@@ -13,9 +13,3 @@
 |  |  | 7 | 11/03/2024 | 17/03/2024 | Transações e Introdução a Bancos de Dados Não-Relacionais |
 |  |  | 8 | 18/03/2024 | - | Bancos de Dados NoSQL - MongoDB Revisão |
 |  |  | 9 | 18/03/2023 | - | Orientações para Realização da Prova |
-
-
-## Semana 1 - 
-
-|  |  |  |  |
-|:---:|:---:|:---|:---|
