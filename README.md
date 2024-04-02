@@ -76,10 +76,24 @@
 
 
 ### ```4o. Semestre```
-##### [7o. Bimestre - 2024.1]()
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
 |  | Projeto Integrador I | 40h |  |  |  |
-|  | Banco de Dados | 80h |  |  |  |
-|  | Cálculo II | 80h |  |  |  |
+
+##### [7o. Bimestre - 2024.1](https://github.com/cintia-shinoda/univesp/tree/master/7o%20Bimestre%20-%202024.1)
+
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+| &check; | Banco de Dados | 80h | 10 | 6 |  |
+| &check; | Cálculo II | 80h | 10 | 4 |  |
+
+<br>
+
+
+##### [8o. Bimestre - 2024.2]()
+
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+|  | Desenvolvimento Web | 80h |  |  |  |
+|  | Introdução à Ciência de Dados | 80h |  |  |  |
