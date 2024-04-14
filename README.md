@@ -85,8 +85,8 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| &check; | Banco de Dados | 80h | 10 | 6 |  |
-| &check; | Cálculo II | 80h | 10 | 4 |  |
+| &check; | Banco de Dados | 80h | 10 | 7 | 8,2 |
+| &check; | Cálculo II | 80h | 10 | 4 | 6,4 |
 
 <br>
 
