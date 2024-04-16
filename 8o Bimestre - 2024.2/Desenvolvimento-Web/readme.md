@@ -4,7 +4,7 @@
 
 |   | AVA | semana | início | vencimento | conteúdo |
 |:---:|:---:|:---:|:---:|:---:|:---|
-|  |  | 1 | 01/04/2024 | 15/04/2024 | História da Web |
+|  | &check; | 1 | 01/04/2024 | 15/04/2024 | História da Web |
 |  |  | 2 | 08/04/2024 | 22/04/2024 | Componentes e Estrutura de uma Aplicação Web |
 |  |  | 3 | 15/04/2024 | 29/04/2024 | Tecnologias Web - Frontend e Backend |
 |  |  | 4 | 22/04/2024 | 06/05/2024 | Bancos de Dados para Aplicações Web |

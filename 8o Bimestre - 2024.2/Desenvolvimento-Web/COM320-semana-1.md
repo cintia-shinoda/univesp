@@ -1,3 +1,8 @@
-## Semana 1 - 
+## Semana 1 - História da Web
 
-### Videoaula 1 - 
+### Revisitando Conhecimentos
+
+
+### Videoaula 1 - História da Internet e Web
+https://youtu.be/oXnVDHhPKtY
+

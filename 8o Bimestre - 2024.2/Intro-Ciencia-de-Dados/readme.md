@@ -4,7 +4,7 @@
 
 |   | AVA | semana | início | vencimento | conteúdo |
 |:---:|:---:|:---:|:---:|:---:|:---|
-|  |  | 1 | 01/04/2024 | 15/04/2024 | Introdução à Ciência de Dados |
+|  | &check; | 1 | 01/04/2024 | 15/04/2024 | Introdução à Ciência de Dados |
 |  |  | 2 | 08/04/2024 | 22/04/2024 | Ferramental e Bibliotecas Python |
 |  |  | 3 | 15/04/2024 | 29/04/2024 | Web Scraping e Uso de Arquivos |
 |  |  | 4 | 22/04/2024 | 06/05/2024 | Descoberta e Preparação de Dados |
