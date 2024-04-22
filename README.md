@@ -77,21 +77,22 @@
 
 ### ```4o. Semestre```
 
-|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
-|:---:|:---|:---:|:---:|:---:|:---:|
-|  | Projeto Integrador I | 40h |  |  |  |
+|  | Disciplina | Carga Horária | Média Final |
+|:---:|:---|:---:|:---:|
+|  | [Projeto Integrador em Computação I](https://github.com/cintia-shinoda/univesp/tree/master/PI%20em%20Computa%C3%A7%C3%A3o%20I) | 40h |  |
+
 
 ##### [7o. Bimestre - 2024.1](https://github.com/cintia-shinoda/univesp/tree/master/7o%20Bimestre%20-%202024.1)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| &check; | Banco de Dados | 80h | 10 | 7 | 8,2 |
-| &check; | Cálculo II | 80h | 10 | 4 | 6,4 |
+| &check; | [Banco de Dados](https://github.com/cintia-shinoda/univesp/tree/master/7o%20Bimestre%20-%202024.1/Banco%20de%20Dados) | 80h | 10 | 7 | 8,2 |
+| &check; | [Cálculo II](https://github.com/cintia-shinoda/univesp/tree/master/7o%20Bimestre%20-%202024.1/C%C3%A1lculo%20II) | 80h | 10 | 4 | 6,4 |
 
 <br>
 
 
-##### [8o. Bimestre - 2024.2]()
+##### [8o. Bimestre - 2024.2](https://github.com/cintia-shinoda/univesp/tree/master/8o%20Bimestre%20-%202024.2)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
