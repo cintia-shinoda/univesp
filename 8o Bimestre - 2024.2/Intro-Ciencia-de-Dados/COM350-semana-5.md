@@ -1,9 +1,15 @@
 ## Semana 5 - Machine Learning
 
 ### Desafio
+
 ### Revisitando Conhecimentos
+
 ### Orientação de Estudos
+
 #### Videoaula 13 - Introdução à Machine Learning
+https://youtu.be/tKx8E8pW0P0
+
+
 #### Quiz da Videoaula 13
 #### Videoaula 14 - Machine Learning: Ética e Privacidade
 #### Quiz da Videoaula 14
