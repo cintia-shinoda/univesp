@@ -10,11 +10,11 @@ Desenvolvimento de um software com framework web que utilize noções de banco d
 |     | Entrega | Prazo | Notas das Entregas | Parciais |
 |:---:|:---:|:-----:|:---:|:---:|
 | &check; | Plano de Ação | 12/03/2024 | 9 | 1,35 / 1,5 |
-| &check; | Relatório Parcial | 09/04/2024 |  |  / 2,5 |
+| &check; | Relatório Parcial | 09/04/2024 | 5,5 | 1,375 / 2,5 |
 |  | Relatório Final | 21/05/2024 |  |  / 3,5 |
 |  | Vídeo | 21/05/2024 |  |  / 1 |
 |  | Avaliação Colaborativa | 21/05/2024 |  |   / 1,5 |
-|  | $\sum$ | - | - | **1,35** |
+|  | $\sum$ | - | - | **2,725** |
 
 ---
 
