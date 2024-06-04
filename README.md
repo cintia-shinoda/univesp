@@ -96,5 +96,5 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | Desenvolvimento Web | 80h |  |  |  |
-|  | Introdução à Ciência de Dados | 80h |  |  |  |
+|  | [Desenvolvimento Web](https://github.com/cintia-shinoda/univesp/tree/master/8o%20Bimestre%20-%202024.2/Desenvolvimento-Web) | 80h | 10 |  |  |
+|  | [Introdução à Ciência de Dados](https://github.com/cintia-shinoda/univesp/tree/master/8o%20Bimestre%20-%202024.2/Intro-Ciencia-de-Dados) | 80h | 10 |  |  |
