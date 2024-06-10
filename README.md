@@ -79,7 +79,7 @@
 
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
-|  | [Projeto Integrador em Computação I](https://github.com/cintia-shinoda/univesp/tree/master/PI%20em%20Computa%C3%A7%C3%A3o%20I) | 40h |  |
+| &check; | [Projeto Integrador em Computação I](https://github.com/cintia-shinoda/univesp/tree/master/PI%20em%20Computa%C3%A7%C3%A3o%20I) | 40h | 7,325 |
 
 
 ##### [7o. Bimestre - 2024.1](https://github.com/cintia-shinoda/univesp/tree/master/7o%20Bimestre%20-%202024.1)
