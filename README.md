@@ -1,7 +1,7 @@
 ## UNIVESP - Ciência de Dados
 
-### ```1o. Semestre```
-##### [1o. Bimestre - 2022.3](https://github.com/cintia-shinoda/univesp/tree/master/1o%20Bimestre%20-%202022.3)
+### ```1º Semestre```
+##### [1º Bimestre - 2022.3](https://github.com/cintia-shinoda/univesp/tree/master/1o%20Bimestre%20-%202022.3)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -12,7 +12,7 @@
 <br>
 
 
-##### [2o. Bimestre - 2022.4](https://github.com/cintia-shinoda/univesp/tree/master/2o%20Bimestre%20-%202022.4)
+##### [2º Bimestre - 2022.4](https://github.com/cintia-shinoda/univesp/tree/master/2o%20Bimestre%20-%202022.4)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -25,8 +25,8 @@
 ---
 
 
-### ```2o. Semestre```
-##### [3o. Bimestre - 2023.1](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1)
+### ```2º Semestre```
+##### [3º Bimestre - 2023.1](https://github.com/cintia-shinoda/univesp/tree/master/3o%20Bimestre%20-%202023.1)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -37,7 +37,7 @@
 <br>
 
 
-##### [4o. Bimestre - 2023.2](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2)
+##### [4º Bimestre - 2023.2](https://github.com/cintia-shinoda/univesp/tree/master/4o%20Bimestre%20-%202023.2)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -50,8 +50,8 @@
 ---
 
 
-### ```3o. Semestre```
-##### [5o. Bimestre - 2023.3](https://github.com/cintia-shinoda/univesp/tree/master/5o.%20Bimestre%20-%202023.3)
+### ```3º Semestre```
+##### [5º Bimestre - 2023.3](https://github.com/cintia-shinoda/univesp/tree/master/5o.%20Bimestre%20-%202023.3)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -62,7 +62,7 @@
 <br>
 
 
-##### [6o. Bimestre - 2023.4](https://github.com/cintia-shinoda/univesp/tree/master/6o%20Bimestre%20-%202023.4)
+##### [6º Bimestre - 2023.4](https://github.com/cintia-shinoda/univesp/tree/master/6o%20Bimestre%20-%202023.4)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -75,14 +75,14 @@
 ---
 
 
-### ```4o. Semestre```
+### ```4º Semestre```
 
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
 | &check; | [Projeto Integrador em Computação I](https://github.com/cintia-shinoda/univesp/tree/master/PI%20em%20Computa%C3%A7%C3%A3o%20I) | 40h | 7,325 |
 
 
-##### [7o. Bimestre - 2024.1](https://github.com/cintia-shinoda/univesp/tree/master/7o%20Bimestre%20-%202024.1)
+##### [7º Bimestre - 2024.1](https://github.com/cintia-shinoda/univesp/tree/master/7o%20Bimestre%20-%202024.1)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -92,9 +92,28 @@
 <br>
 
 
-##### [8o. Bimestre - 2024.2](https://github.com/cintia-shinoda/univesp/tree/master/8o%20Bimestre%20-%202024.2)
+##### [8º Bimestre - 2024.2](https://github.com/cintia-shinoda/univesp/tree/master/8o%20Bimestre%20-%202024.2)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
 | &check; | [Desenvolvimento Web](https://github.com/cintia-shinoda/univesp/tree/master/8o%20Bimestre%20-%202024.2/Desenvolvimento-Web) | 80h | 10 | 8 | 8,8 |
 | &check; | [Introdução à Ciência de Dados](https://github.com/cintia-shinoda/univesp/tree/master/8o%20Bimestre%20-%202024.2/Intro-Ciencia-de-Dados) | 80h | 10 | 10 | 10 |
+
+<br><br>
+
+---
+
+
+### ```5º Semestre```
+
+|  | Disciplina | Carga Horária | Média Final |
+|:---:|:---|:---:|:---:|
+|  | Projeto Integrador em Computação II |  |  |
+
+
+##### 9º Bimestre
+
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+|  | Modelagem e Inferência Estatística | 80h |  |  |  |
+|  | Engenharia de Software | 80h |  |  |  |
