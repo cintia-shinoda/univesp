@@ -9,7 +9,7 @@
 
 |     | Entrega | Prazo | Notas das Entregas | Parciais |
 |:---:|:---:|:-----:|:---:|:---:|
-|  | Plano de Ação | 08/09/2024 |  |  / 1,5 |
+|  | Plano de Ação | 08/09/2024 | 10 | 1,5 / 1,5 |
 |  | Relatório Parcial | 06/10/2024 |  |  / 2,5 |
 |  | Relatório Final | 17/11/2024 |  |  / 3,5 |
 |  | Vídeo | 17/11/2024 |  |  / 1 |

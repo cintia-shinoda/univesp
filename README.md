@@ -115,8 +115,8 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | [Modelagem e Inferência Estatística](https://github.com/cintia-shinoda/univesp/tree/master/9o-Bimestre-2024.3/Modelagem-Inferencia-Estatistica) | 80h | 10 |  |  |
-|  | [Engenharia de Software](https://github.com/cintia-shinoda/univesp/tree/master/9o-Bimestre-2024.3/Engenharia-Software) | 80h | 10 |  |  |
+| &check; | [Modelagem e Inferência Estatística](https://github.com/cintia-shinoda/univesp/tree/master/9o-Bimestre-2024.3/Modelagem-Inferencia-Estatistica) | 80h | 10 | 7 | 8,2 |
+| &check; | [Engenharia de Software](https://github.com/cintia-shinoda/univesp/tree/master/9o-Bimestre-2024.3/Engenharia-Software) | 80h | 10 | 8 | 8,8 |
 
 <br>
 
