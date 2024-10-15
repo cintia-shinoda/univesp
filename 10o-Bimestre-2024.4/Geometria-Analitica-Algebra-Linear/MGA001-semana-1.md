@@ -3,9 +3,40 @@
 ### Videoaula 1 - Uma ideia geral da disciplina
 https://youtu.be/n62o-iA1KjE
 
+- software: Geogebra
+- sistemas lineares: intersecção de retas = solução
+- escalonamento de matrizes
+- vetores - combinação lineares
+
+- matriz dos coeficientes
+- matriz das incógnitas
+- matriz dos termos independentes
+
+- geometria no plano
+- desenvolvimento algébrico
+- teoria de matrizes
+- teoria de vetores
+
+#### Próximas aulas
+- teoria de matrizes
+- espaços vetoriais
+- geometria no plano e espaço
+
+
 ### Quiz da videoaula 1
 
 ### Videoaula 2 - O que são matrizes?
+https://youtu.be/0AcpZCOIAYk
+
+- matriz "cat map"
+
+- matriz linha = tem 1 linha
+- matriz coluna = tem 1 coluna
+
+#### Aplicações
+- sistemas computacionais que lidam com grande quantidade de dados
+- computação gráfica
+
 
 ### Quiz da videoaula 2
 
