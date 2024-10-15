@@ -24,6 +24,33 @@ https://youtu.be/n62o-iA1KjE
 
 
 ### Quiz da videoaula 1
+Assinale a alternativa que mostra o sistema linear abaixo na forma matricial $Ax = b$.
+
+$\begin{cases}
+2x - y = 3\\
+-x + 2y = 0
+\end{cases}$
+
+a)$
+\begin{vmatrix}2 & -1 \\ -1 & 2\end{vmatrix}
+\begin{vmatrix} x \\ y \end{vmatrix} = 
+\begin{vmatrix} 3 \\ 0 \end{vmatrix}$     &check;
+
+b)$
+\begin{vmatrix}2 & 1 \\ 1 & 2 \end{vmatrix}
+\begin{vmatrix} x \\ y \end{vmatrix} =
+\begin{vmatrix} 0 \\ 3 \end{vmatrix}$
+
+c)$\begin{vmatrix} 2 & -1 \\ -1 & 2 \end{vmatrix}$
+
+d) $x = 2$ e $y = 1$
+
+e) $ 
+\begin{vmatrix} 2 \\ -1 \end{vmatrix} x +
+\begin{vmatrix} -1 \\ 2 \end{vmatrix} y =
+\begin{vmatrix} 3 \\ 0 \end{vmatrix} $
+
+--- 
 
 ### Videoaula 2 - O que são matrizes?
 https://youtu.be/0AcpZCOIAYk
@@ -39,6 +66,8 @@ https://youtu.be/0AcpZCOIAYk
 
 
 ### Quiz da videoaula 2
+
+---
 
 ### Videoaula 3 - Operações com matrizes
 
