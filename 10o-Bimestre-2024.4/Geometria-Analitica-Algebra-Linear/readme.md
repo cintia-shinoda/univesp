@@ -4,7 +4,7 @@
 
 |   | AVA | semana | início | vencimento | conteúdo |
 |:---:|:---:|:---:|:---:|:---:|:---|
-|  |  | 1 |  |  | Matrizes |
+|  | &check; | 1 |  |  | Matrizes |
 |  |  | 2 |  |  | Sistemas Lineares |
 |  |  | 3 |  |  | Determinantes de Matrizes |
 |  |  | 4 |  |  | Geometria Analítica no Plano |
