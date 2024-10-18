@@ -11,7 +11,7 @@ https://youtu.be/0kquQZdajk8
 ##### Exemplo 1:
 - única solução: intersecção de duas retas
 
-$\begin{cases}x - y = 1 \\x + 2y = 4\end{cases} =$
+```math\begin{cases}x - y = 1 \\x + 2y = 4\end{cases} =```
 
 $\begin{cases}(x - x) + (2y - (-y)) = (4 - 1)\\\end{cases} =$
 
