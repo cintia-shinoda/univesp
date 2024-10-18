@@ -12,10 +12,10 @@ https://youtu.be/0kquQZdajk8
 - única solução: intersecção de duas retas
 
 
-$$ \begin{cases}x - y = 1 \\x + 2y = 4 \end{cases} = $$s
+$ \begin{cases}x - y = 1 \\x + 2y = 4 \end{cases} = $
 
 
-$$ \begin{cases}(x - x) + (2y - (-y)) = (4 - 1)\\ \end{cases} =$$
+$ \begin{cases}(x - x) + (2y - (-y)) = (4 - 1)\\ \end{cases} = $
 
 $3y = 3$
 
