@@ -32,23 +32,23 @@ $\begin{cases}
 \end{cases}$
 
 a)$
-\begin{vmatrix}2 & -1 \\ -1 & 2\end{vmatrix}
-\begin{vmatrix} x \\ y \end{vmatrix} = 
-\begin{vmatrix} 3 \\ 0 \end{vmatrix}$     &check;
+\begin{bmatrix}2 & -1 \\ -1 & 2\end{bmatrix}
+\begin{bmatrix} x \\ y \end{bmatrix} = 
+\begin{bmatrix} 3 \\ 0 \end{bmatrix}$     &check;
 
 b)$
-\begin{vmatrix}2 & 1 \\ 1 & 2 \end{vmatrix}
-\begin{vmatrix} x \\ y \end{vmatrix} =
-\begin{vmatrix} 0 \\ 3 \end{vmatrix}$
+\begin{bmatrix}2 & 1 \\ 1 & 2 \end{bmatrix}
+\begin{bmatrix} x \\ y \end{bmatrix} =
+\begin{bmatrix} 0 \\ 3 \end{bmatrix}$
 
-c)$\begin{vmatrix} 2 & -1 \\ -1 & 2 \end{vmatrix}$
+c)$\begin{bmatrix} 2 & -1 \\ -1 & 2 \end{bmatrix}$
 
 d) $x = 2$ e $y = 1$
 
 e) $ 
-\begin{vmatrix} 2 \\ -1 \end{vmatrix} x +
-\begin{vmatrix} -1 \\ 2 \end{vmatrix} y =
-\begin{vmatrix} 3 \\ 0 \end{vmatrix} $
+\begin{bmatrix} 2 \\ -1 \end{bmatrix} x +
+\begin{bmatrix} -1 \\ 2 \end{bmatrix} y =
+\begin{bmatrix} 3 \\ 0 \end{bmatrix} $
 
 --- 
 
@@ -72,58 +72,58 @@ https://youtu.be/0AcpZCOIAYk
 ### Quiz da videoaula 2
 Considere a matriz: $
 A = 
-\begin{vmatrix}
+\begin{bmatrix}
 1 & 7 & 2 \\
 17 & 5 & 3 \\
 9 & 10 & 35
-\end{vmatrix}
+\end{bmatrix}
 $
 
 Se a matriz B é obtida somando 1 a cada elemento da matriz A, então assinale a alternativa que corresponde à matriz B:
 
 a) $
 B =
-\begin{vmatrix}
+\begin{bmatrix}
  1 & 17 & 9 \\
  7 & 5 & 10 \\
  2 & 3 & 35
-\end{vmatrix}
+\end{bmatrix}
 $
 
 b) $
 B =
-\begin{vmatrix}
+\begin{bmatrix}
  1 & 7 & 2 \\
  17 & 5 & 3 \\
  9 & 10 & 35
-\end{vmatrix}
+\end{bmatrix}
 $
 
 c) $
 B =
-\begin{vmatrix}
+\begin{bmatrix}
  2 & 18 & 10 \\
  8 & 6 & 11 \\
  3 & 4 & 36
-\end{vmatrix}
+\end{bmatrix}
 $
 
 d) $
 B =
-\begin{vmatrix}
+\begin{bmatrix}
  9 & 7 & 9 \\
  10 & 6 & 4 \\
  11 & 7 & 36
-\end{vmatrix}
+\end{bmatrix}
 $
 
 e) $
 B =
-\begin{vmatrix}
+\begin{bmatrix}
  2 & 8 & 3 \\
  18 & 6 & 4 \\
  10 & 11 & 36
-\end{vmatrix}     
+\end{bmatrix}     
 $     &check;
 
 ---
@@ -137,17 +137,17 @@ https://youtu.be/hgkUTXf70aE
 - soma dos elementos correspondentes
 
 $
-\begin{vmatrix}2 & 3 \\1 & 0 \\6 & 7 \\3 & 5\end{vmatrix} + 
-\begin{vmatrix}0 & 1 \\8 & 2 \\1 & -3\\3 & 0\end{vmatrix} = 
-\begin{vmatrix}2+0 & 3+1 \\1+8 & 0+2 \\6+1 & 7-3 \\3+3 & 5+0\end{vmatrix} =
-\begin{vmatrix}2 & 4 \\9 & 2 \\7 & 4 \\6 & 5\end{vmatrix}
+\begin{bmatrix}2 & 3 \\1 & 0 \\6 & 7 \\3 & 5\end{bmatrix} + 
+\begin{bmatrix}0 & 1 \\8 & 2 \\1 & -3\\3 & 0\end{bmatrix} = 
+\begin{bmatrix}2+0 & 3+1 \\1+8 & 0+2 \\6+1 & 7-3 \\3+3 & 5+0\end{bmatrix} =
+\begin{bmatrix}2 & 4 \\9 & 2 \\7 & 4 \\6 & 5\end{bmatrix}
 $
 
 ##### Produto por escalar
 $
-4A = 4 \begin{vmatrix} 2 & 3 & 3\\ 1 & 0 & 1\\ 6 & -2 & 3\\3&5&2\end{vmatrix} = 
-\begin{vmatrix} 4*2 & 4*3 & 4*3\\ 4*1 & 4*0 & 4*1\\ 4*6 & 4*-2 & 4*3\\4*3&4*5&4*2\end{vmatrix} =
-\begin{vmatrix} 8 & 12 & 12\\ 4 & 0 & 4\\ 24 & -8 & 12\\12&20&8\end{vmatrix}
+4A = 4 \begin{bmatrix} 2 & 3 & 3\\ 1 & 0 & 1\\ 6 & -2 & 3\\3&5&2\end{bmatrix} = 
+\begin{bmatrix} 4*2 & 4*3 & 4*3\\ 4*1 & 4*0 & 4*1\\ 4*6 & 4*-2 & 4*3\\4*3&4*5&4*2\end{bmatrix} =
+\begin{bmatrix} 8 & 12 & 12\\ 4 & 0 & 4\\ 24 & -8 & 12\\12&20&8\end{bmatrix}
 $
 
 ##### Produto de matrizes
@@ -157,12 +157,12 @@ $
 
 Exemplo 1:
 $
-\begin{vmatrix} 1 & 3 & -2 & 5\end{vmatrix} * \begin{vmatrix} 2 \\ 0 \\ 1 \\ 3\end{vmatrix} = \begin{vmatrix}{1\times2} & + & {3\times0} & + & {-2\times1} & + & {5\times3}\end{vmatrix} = \begin{vmatrix}15\end{vmatrix}
+\begin{bmatrix} 1 & 3 & -2 & 5\end{bmatrix} * \begin{bmatrix} 2 \\ 0 \\ 1 \\ 3\end{bmatrix} = \begin{bmatrix}{1\times2} & + & {3\times0} & + & {-2\times1} & + & {5\times3}\end{bmatrix} = \begin{bmatrix}15\end{bmatrix}
 $
 
 Exemplo 2:
 $
-\begin{vmatrix}2&1&3\\1&0&4\end{vmatrix} * \begin{vmatrix}1&-1\\2&3\\5&7\end{vmatrix} = \begin{vmatrix}2*1+1*2+3*5 & 2*-1+1*3+3*7\\1*1+0*2+4*5 & 1*-1+0*3+4*7\end{vmatrix} = \begin{vmatrix}20 & 26\\21 & 25\end{vmatrix}
+\begin{bmatrix}2&1&3\\1&0&4\end{bmatrix} * \begin{bmatrix}1&-1\\2&3\\5&7\end{bmatrix} = \begin{bmatrix}2*1+1*2+3*5 & 2*-1+1*3+3*7\\1*1+0*2+4*5 & 1*-1+0*3+4*7\end{bmatrix} = \begin{bmatrix}20 & 26\\21 & 25\end{bmatrix}
 $
 
 #### Próximas aulas:
@@ -170,10 +170,10 @@ $
 - Inversão de matrizes
 
 ### Quiz da videoaula 3
-Considere as matrizes: $A = \begin{vmatrix}2&1\\1&3\\0&1\end{vmatrix}$ e $B = \begin{vmatrix}0&3&0\\4&1&1\end{vmatrix}$
+Considere as matrizes: $A = \begin{bmatrix}2&1\\1&3\\0&1\end{bmatrix}$ e $B = \begin{bmatrix}0&3&0\\4&1&1\end{bmatrix}$
 Selecione a opção que corresponde à matriz AB.
 
-d) $ AB = \begin{vmatrix}4&7&1\\12&6&3\\4&1&1\end{vmatrix}$ &check;
+d) $ AB = \begin{bmatrix}4&7&1\\12&6&3\\4&1&1\end{bmatrix}$ &check;
 
 ---
 
