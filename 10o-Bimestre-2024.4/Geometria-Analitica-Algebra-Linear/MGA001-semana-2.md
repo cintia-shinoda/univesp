@@ -91,20 +91,22 @@ $\begin{bmatrix}2 & 1 & 0 & | & 2 &\\0 & 1 & 1 & | & 1\\1&0&-1 & | & 3\end{bmatr
 
 #### Operações Elementares
 ##### 1. invertendo linhas
-$\begin{bmatrix}2&1&2\\1&7&1\\3&-3&-1\\2&0&1\end{bmatrix}  L_2 \leftrightarrow L_3 \begin{bmatrix}2&1&2\\3&-3&-1\\1&7&1\\2&0&1\end{bmatrix}$
+$\begin{bmatrix}2&1&2\\1&7&1\\3&-3&-1\\2&0&1\end{bmatrix}  \xrightarrow {L_2 \leftrightarrow L_3} \begin{bmatrix}2&1&2\\3&-3&-1\\1&7&1\\2&0&1\end{bmatrix}$
 
 ##### 2. multiplicando linhas por um escalar
-$\begin{bmatrix}2&1&2\\1&7&1\\3&-3&-1\\2&0&1\end{bmatrix}  2L_4 \rightarrow L_4 \begin{bmatrix}2&1&2\\1&7&1\\3&-3&-1\\4&0&2\end{bmatrix}$
+$\begin{bmatrix}2&1&2\\1&7&1\\3&-3&-1\\2&0&1\end{bmatrix} \xrightarrow {2L_4 \rightarrow L_4} \begin{bmatrix}2&1&2\\1&7&1\\3&-3&-1\\4&0&2\end{bmatrix}$
 
 ##### 3. soma de uma linha com outra multiplicada por um escalar
-$\begin{bmatrix}2&1&2\\1&7&1\\3&-3&-1\\2&0&1\end{bmatrix} L_2 + 2L_1 \rightarrow L_2 \begin{bmatrix}2&1&2\\1+2(2)&7+2(1)&1+2(2)\\3&-3&-1\\2&0&1\end{bmatrix}= \begin{bmatrix}2&1&2\\5&9&5\\3&-3&-1\\2&0&1\end{bmatrix}$
+$\begin{bmatrix}2&1&2\\1&7&1\\3&-3&-1\\2&0&1\end{bmatrix} \xrightarrow{L_2 + 2L_1 \rightarrow L_2} \begin{bmatrix}2&1&2\\1+2(2)&7+2(1)&1+2(2)\\3&-3&-1\\2&0&1\end{bmatrix}= \begin{bmatrix}2&1&2\\5&9&5\\3&-3&-1\\2&0&1\end{bmatrix}$
 
 #### Eliminação de Gauss ou Método de Escalonamento
 $\begin{cases}x - y = 1 \\x + 2y = 4\end{cases}$
 
 $\begin{bmatrix}1&-1& | & 1&\\1&2& | & 4\end{bmatrix}$
 
-transformar em uma matriz triangular superior
+transformar em uma matriz triangular superior (abaixo da diagonal principal, todos os elementos = 0)
+
+
 
 
 ### Quiz da videoaula 5
