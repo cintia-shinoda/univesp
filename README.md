@@ -108,7 +108,7 @@
 
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
-|  | [Projeto Integrador em Computação II](https://github.com/cintia-shinoda/univesp/tree/master/PI-em-Computacao-II) | 80h |  |
+| &check; | [Projeto Integrador em Computação II](https://github.com/cintia-shinoda/univesp/tree/master/PI-em-Computacao-II) | 80h |  |
 
 
 ##### [9º Bimestre](https://github.com/cintia-shinoda/univesp/tree/master/9o-Bimestre-2024.3)
@@ -124,5 +124,5 @@
 ##### 10º Bimestre
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | Geometria Analítica e Álgebra Linear | 80h |  |  |  |
-|  | Mineração de Dados | 80h |  |  |  |
+|  | Geometria Analítica e Álgebra Linear | 80h | 10 |  |  |
+|  | Mineração de Dados | 80h | 10 |  |  |
