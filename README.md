@@ -108,7 +108,7 @@
 
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
-| &check; | [Projeto Integrador em Computação II](https://github.com/cintia-shinoda/univesp/tree/master/PI-em-Computacao-II) | 80h |  |
+| &check; | [Projeto Integrador em Computação II](https://github.com/cintia-shinoda/univesp/tree/master/PI-em-Computacao-II) | 80h | 9,5 |
 
 
 ##### [9º Bimestre](https://github.com/cintia-shinoda/univesp/tree/master/9o-Bimestre-2024.3)

@@ -11,10 +11,10 @@
 |:---:|:---:|:-----:|:---:|:---:|
 | &check; | Plano de Ação | 08/09/2024 | 10 | 1,5 / 1,5 |
 | &check; | Relatório Parcial | 06/10/2024 | 8 |  2 / 2,5 |
-| &check; | Relatório Final | 17/11/2024 |  |  / 3,5 |
-| &check; | Vídeo | 17/11/2024 |  |  / 1 |
-| &check; | Avaliação Colaborativa | 17/11/2024 | 10 |   / 1,5 |
-|  | $\sum$ | - | - | **5** |
+| &check; | Relatório Final | 17/11/2024 | 10 | 3,5 / 3,5 |
+| &check; | Vídeo | 17/11/2024 | 10 | 1 / 1 |
+| &check; | Avaliação Colaborativa | 17/11/2024 | 10 | 1,5 / 1,5 |
+|  | $\sum$ | - | - | **9,5** |
 
 ---
 
