@@ -121,8 +121,26 @@
 <br>
 
 
-##### 10º Bimestre
+##### [10º Bimestre](https://github.com/cintia-shinoda/univesp/tree/master/10o-Bimestre-2024.4)
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | Geometria Analítica e Álgebra Linear | 80h | 10 |  |  |
-|  | Mineração de Dados | 80h | 10 |  |  |
+| &check; | [Geometria Analítica e Álgebra Linear](https://github.com/cintia-shinoda/univesp/tree/master/10o-Bimestre-2024.4/Geometria-Analitica-Algebra-Linear) | 80h | 10 | 6 | 7,6 |
+| &check; | [Mineração de Dados](https://github.com/cintia-shinoda/univesp/tree/master/10o-Bimestre-2024.4/Minera%C3%A7%C3%A3o%20de%20Dados) | 80h | 10 | 7 | 8,2 |
+
+<!-- <br><br>
+
+---
+
+
+### ```6º Semestre```
+|  | Disciplina | Carga Horária | Média Final |
+|:---:|:---|:---:|:---:|
+|  | Projeto Integrador em Computação III | 80h |  |
+
+
+##### 11º Bimestre
+
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+|  |  |  |  |  |  |
+|  |  |  |  |  |  | -->
