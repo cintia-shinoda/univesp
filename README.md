@@ -127,7 +127,7 @@
 | &check; | [Geometria Analítica e Álgebra Linear](https://github.com/cintia-shinoda/univesp/tree/master/10o-Bimestre-2024.4/Geometria-Analitica-Algebra-Linear) | 80h | 10 | 6 | 7,6 |
 | &check; | [Mineração de Dados](https://github.com/cintia-shinoda/univesp/tree/master/10o-Bimestre-2024.4/Minera%C3%A7%C3%A3o%20de%20Dados) | 80h | 10 | 7 | 8,2 |
 
-<!-- <br><br>
+<br><br>
 
 ---
 
@@ -142,5 +142,19 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  |  |  |  |  |  |
-|  |  |  |  |  |  | -->
+|  | Infraestrutura para Sistemas de Software | 80h |  |  |  |
+|  | Visualização Computacional | 80h |  |  |  |
+
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+|  | ELETIVA - Aplicações em Aprendizado de Máquina | 80h |  |  |  |
+|  | ADIANTAMENTO - Planejamento Estratégico de Negócios | 80h |  |  |  |
+<!-- 
+<br>
+
+
+##### 12º Bimestre
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+|  | Computação Escalável | 80h |  |  |  |
+|  | Aprendizado de Máquinas | 80h |  |  |  | -->
