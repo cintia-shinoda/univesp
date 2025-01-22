@@ -14,11 +14,11 @@
 
 |     | Entrega | Prazo | Notas das Entregas | Parciais |
 |:---:|:---:|:-----:|:---:|:---:|
-|  | Plano de Ação |  |  |  / 1,5 |
-|  | Relatório Parcial |  |  |   / 2,5 |
-|  | Relatório Final |  |  |  / 3,5 |
-|  | Vídeo |  |  |  / 1 |
-|  | Avaliação Colaborativa |  |  |  / 1,5 |
+|  | Plano de Ação | 16/03/2025 |  |  / 1,5 |
+|  | Relatório Parcial | 13/04/2025 |  |   / 2,5 |
+|  | Relatório Final | 25/05/2024 |  |  / 3,5 |
+|  | Vídeo | 25/05/2025 |  |  / 1 |
+|  | Avaliação Colaborativa | 25/05/2025 |  |  / 1,5 |
 |  | $\sum$ | - | - | **** |
 
 ---
