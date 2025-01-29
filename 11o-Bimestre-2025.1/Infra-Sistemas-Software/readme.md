@@ -11,4 +11,4 @@
 |  |  | 5 | 24/02/2025 | 05/03/2025 | Arquiteturas SOA e Web Services |
 |  |  | 6 | 03/03/2025 | 12/03/2025 | Fundamentos de Arquiteturas de Micro Serviços |
 |  |  | 7 | 03/03/2025 | 12/03/2025 | Estudos de caso de Infraestrutura para Sistemas de Software |
-|  |  | 8 | 03/03/2025 |  | Revisão |
+|  |  | 8 | 03/03/2025 | - | Revisão |

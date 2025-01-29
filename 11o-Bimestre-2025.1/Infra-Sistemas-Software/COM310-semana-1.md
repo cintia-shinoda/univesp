@@ -1,6 +1,13 @@
 # Semana 1 - Redes de Computadores e a Internet
 
 ## Revisitando Conhecimentos
+### Redes de Computadores - Aula 01 - Introdução às Redes de Computadores
+
+
+### Redes de Computadores - Aula 02 - Protocolos e Camadas
+
+### Redes de Computadores - Aula 10 - Camada de Rede na Internet
+
 
 ---
 
