@@ -145,11 +145,13 @@
 |  | Infraestrutura para Sistemas de Software | 80h |  |  |  |
 |  | Visualização Computacional | 80h |  |  |  |
 
+
+<!-- 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
 |  | ELETIVA - Aplicações em Aprendizado de Máquina | 80h |  |  |  |
 |  | ADIANTAMENTO - Planejamento Estratégico de Negócios | 80h |  |  |  |
-<!-- 
+
 <br>
 
 

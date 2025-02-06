@@ -13,6 +13,9 @@
 
 ## 
 ### Videoaula 1 - Introdução às Redes de Computadores
+https://youtu.be/Sea42wIzMOY
+
+
 
 #### Quiz da Videoaula 1
 
