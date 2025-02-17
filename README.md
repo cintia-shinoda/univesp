@@ -135,15 +135,15 @@
 ### ```6º Semestre```
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
-|  | Projeto Integrador em Computação III | 80h |  |
+|  | [Projeto Integrador em Computação III](https://github.com/cintia-shinoda/univesp/tree/master/PI-em-Computacao-III) | 80h |  |
 
 
-##### 11º Bimestre
+##### [11º Bimestre](https://github.com/cintia-shinoda/univesp/tree/master/11o-Bimestre-2025.1)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | Infraestrutura para Sistemas de Software | 80h |  |  |  |
-|  | Visualização Computacional | 80h |  |  |  |
+|  | [Infraestrutura para Sistemas de Software](https://github.com/cintia-shinoda/univesp/tree/master/11o-Bimestre-2025.1/Infra-Sistemas-Software) | 80h |  |  |  |
+|  | [Visualização Computacional](https://github.com/cintia-shinoda/univesp/tree/master/11o-Bimestre-2025.1/Visualizacao-Computacional) | 80h |  |  |  |
 
 
 <!-- 
