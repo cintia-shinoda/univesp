@@ -1,43 +1,14 @@
-# Ética, Cidadania e Sociedade - SOC100 - turma 008
+# SOC100 - Ética, Cidadania e Sociedade
 
 
-## Semana 1
+## Cronograma
 
-|  |  |  |  |
-|:---:|:---:|:---|:---|
-| &check; |  | Atividade Avaliativa - 1 |  |
-
-
-## Semana 2
-
-|  |  |  |  |
-|:---:|:---:|:---|:---|
-| &check; |  | Atividade Avaliativa - 2 |  |
-
-
-## Semana 3
-
-|  |  |  |  |
-|:---:|:---:|:---|:---|
-| &check; |  | Atividade Avaliativa - 3 |  |
-
-
-## Semana 4
-
-|  |  |  |  |
-|:---:|:---:|:---|:---|
-| &check; |  | Atividade Avaliativa - 4 |  |
-
-
-## Semana 5
-
-|  |  |  |  |
-|:---:|:---:|:---|:---|
-| &check; |  | Atividade Avaliativa - 5 |  |
-
-
-## Semana 6
-
-|  |  |  |  |
-|:---:|:---:|:---|:---|
-| &check; |  | Atividade Avaliativa - 6 |  |
+|   | AVA | semana | início | vencimento | conteúdo |
+|:---:|:---:|:---:|:---:|:---:|:---|
+|  | &check; | 1 |  |  |  |
+|  | &check; | 2 |  |  |  |
+|  | &check; | 3 |  |  |  |
+|  | &check; | 4 |  |  |  |
+|  | &check; | 5 |  |  |  |
+|  | &check; | 6 |  |  |  |
+|  | &check; | 7 |  |  |  |
