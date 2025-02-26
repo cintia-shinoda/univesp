@@ -1,4 +1,4 @@
-# Pensamento Computacional - COM100 - turma 008
+# COM100 - Pensamento Computacional
 
 
 ## Cronograma

@@ -1,3 +1,6 @@
+# MMB002 - Matemática Básica
+
+## Cronograma
 
 |  | | semana | início | tema |
 |:---:|:---:|:---:|:---:|:---|
@@ -10,49 +13,3 @@
 | &check; |  | 7 | 21/11 | Porcentagem |
 |  |  | 8 | 21/11 | Revisão |
 |  |  | 9 | 23/11 | Orientações para realização da prova |
-
-
-
-## Semana 1 - Números Naturais e suas Operações
-
-|  |  |  |
-|:---:|:---|:---|
-|  | Videoaula 1 | Números Naturais |
-|  | Quiz 1 |  |
-|  | Texto-base | Teoria dos números para professores do ensino fundamental |
-|  | Videoaula 2 | Operações no conjunto dos números naturais |
-|  | Quiz 2 |  |
-|  | Videoaula 3 | Exercícios 1 |
-|  | Quiz 3 |  |
-|  | Texto-base | Teoria dos números para professores do ensino fundamental |
-|  | Exercício de Apoio 1 |  |
-|  | Exercício de Apoio 2 |  |
-|  | Exercício de Apoio 3 |  |
-|  | Quiz Objeto Educacional |  |
-| &check; | Atividade Avaliativa |  |
-
-<br>
-
-
-## Semana 2 - 
-
-|  |  |  |  |
-|:---:|:---:|:---|:---|
-
-
-## Semana 3 - 
-###
-
-
-## Semana 4 - 
-###
-
-
-## Semana 5 - 
-###
-
-## Semana 6 - 
-###
-
-## Semana 7 - 
-###

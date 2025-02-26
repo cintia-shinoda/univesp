@@ -1,4 +1,6 @@
-# Projetos e Métodos para a Produção do Conhecimento
+# INT100 - Projetos e Métodos para a Produção do Conhecimento
+
+## Cronograma
 
 |  | | semana | início | entrega | tema |
 |:---:|:---:|:---:|:---:|:---:|:---|
@@ -11,10 +13,3 @@
 | &check; |  | 7 | 21/11/2022 | 25/11/2022 | Planejamento e Elaboração de Pesquisa |
 |  |  | 8 | 21/11/2022 | - | Revisão |
 |  |  | 9 | 23/11/2022 | - | Orientações para Realização da Prova |
-
-
-## Semana 1 - 
-
-|  |  |  |  |
-|:---:|:---:|:---|:---|
-|  |  | Videoaula 1 |  |
