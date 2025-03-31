@@ -142,21 +142,20 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | [Infraestrutura para Sistemas de Software](https://github.com/cintia-shinoda/univesp/tree/master/11o-Bimestre-2025.1/Infra-Sistemas-Software) | 80h |  |  |  |
-|  | [Visualização Computacional](https://github.com/cintia-shinoda/univesp/tree/master/11o-Bimestre-2025.1/Visualizacao-Computacional) | 80h |  |  |  |
-
-
-<!-- 
-|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
-|:---:|:---|:---:|:---:|:---:|:---:|
-|  | ELETIVA - Aplicações em Aprendizado de Máquina | 80h |  |  |  |
-|  | ADIANTAMENTO - Planejamento Estratégico de Negócios | 80h |  |  |  |
+| &check; | [Infraestrutura para Sistemas de Software](https://github.com/cintia-shinoda/univesp/tree/master/11o-Bimestre-2025.1/Infra-Sistemas-Software) | 80h | 10 | 8 | 8,8 |
+| &check; | [Visualização Computacional](https://github.com/cintia-shinoda/univesp/tree/master/11o-Bimestre-2025.1/Visualizacao-Computacional) | 80h | 10 | 9 | 9,4 |
 
 <br>
 
 
 ##### 12º Bimestre
+
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
 |  | Computação Escalável | 80h |  |  |  |
-|  | Aprendizado de Máquinas | 80h |  |  |  | -->
+|  | Aprendizado de Máquinas | 80h |  |  |  |
+
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+|  | ELETIVA - Aplicações em Aprendizado de Máquina | 80h |  |  |  |
+|  | ADIANTAMENTO - Planejamento Estratégico de Negócios | 80h |  |  |  |

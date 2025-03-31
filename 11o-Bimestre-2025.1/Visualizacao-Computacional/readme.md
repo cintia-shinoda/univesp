@@ -1,4 +1,4 @@
-#  - Visualização Computacional
+# COM400 - Visualização Computacional
 
 ## Cronograma
 
