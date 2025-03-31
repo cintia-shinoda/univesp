@@ -148,14 +148,14 @@
 <br>
 
 
-##### 12º Bimestre
+##### [12º Bimestre](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | Computação Escalável | 80h |  |  |  |
-|  | Aprendizado de Máquinas | 80h |  |  |  |
+|  | [Computação Escalável](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Computacao-Escalavel) | 80h |  |  |  |
+|  | [Aprendizado de Máquinas](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Aprendizado-de-Maquinas) | 80h |  |  |  |
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | ELETIVA - Aplicações em Aprendizado de Máquina | 80h |  |  |  |
-|  | ADIANTAMENTO - Planejamento Estratégico de Negócios | 80h |  |  |  |
+|  | ELETIVA - [Aplicações em Aprendizado de Máquina](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Aplicacoes-Aprendizado-Maquina) | 80h |  |  |  |
+|  | ADIANTAMENTO - [Planejamento Estratégico de Negócios](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Planejamento-Estrategico-Negocios) | 80h |  |  |  |
