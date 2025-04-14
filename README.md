@@ -1,7 +1,7 @@
 ## UNIVESP - Ciência de Dados
 
 ### ```1º Semestre```
-##### [1º Bimestre - 2022.3](https://github.com/cintia-shinoda/univesp/tree/master/1o-Bimestre-2022.3)
+##### [1º Bimestre - 2022.3](https://github.com/cintia-shinoda/univesp/tree/master/01o-Bimestre-2022.3)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -12,7 +12,7 @@
 <br>
 
 
-##### [2º Bimestre - 2022.4](https://github.com/cintia-shinoda/univesp/tree/master/2o-Bimestre-2022.4)
+##### [2º Bimestre - 2022.4](https://github.com/cintia-shinoda/univesp/tree/master/02o-Bimestre-2022.4)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -26,7 +26,7 @@
 
 
 ### ```2º Semestre```
-##### [3º Bimestre - 2023.1](https://github.com/cintia-shinoda/univesp/tree/master/3o-Bimestre-2023.1)
+##### [3º Bimestre - 2023.1](https://github.com/cintia-shinoda/univesp/tree/master/03o-Bimestre-2023.1)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -37,7 +37,7 @@
 <br>
 
 
-##### [4º Bimestre - 2023.2](https://github.com/cintia-shinoda/univesp/tree/master/4o-Bimestre-2023.2)
+##### [4º Bimestre - 2023.2](https://github.com/cintia-shinoda/univesp/tree/master/04o-Bimestre-2023.2)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -51,7 +51,7 @@
 
 
 ### ```3º Semestre```
-##### [5º Bimestre - 2023.3](https://github.com/cintia-shinoda/univesp/tree/master/5o-Bimestre-2023.3)
+##### [5º Bimestre - 2023.3](https://github.com/cintia-shinoda/univesp/tree/master/05o-Bimestre-2023.3)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -62,7 +62,7 @@
 <br>
 
 
-##### [6º Bimestre - 2023.4](https://github.com/cintia-shinoda/univesp/tree/master/6o-Bimestre-2023.4)
+##### [6º Bimestre - 2023.4](https://github.com/cintia-shinoda/univesp/tree/master/06o-Bimestre-2023.4)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -82,7 +82,7 @@
 | &check; | [Projeto Integrador em Computação I](https://github.com/cintia-shinoda/univesp/tree/master/PI-em-Computacao-I) | 80h | 7,325 |
 
 
-##### [7º Bimestre - 2024.1](https://github.com/cintia-shinoda/univesp/tree/master/7o-Bimestre-2024.1)
+##### [7º Bimestre - 2024.1](https://github.com/cintia-shinoda/univesp/tree/master/07o-Bimestre-2024.1)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -92,7 +92,7 @@
 <br>
 
 
-##### [8º Bimestre - 2024.2](https://github.com/cintia-shinoda/univesp/tree/master/8o-Bimestre-2024.2)
+##### [8º Bimestre - 2024.2](https://github.com/cintia-shinoda/univesp/tree/master/08o-Bimestre-2024.2)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
@@ -111,7 +111,7 @@
 | &check; | [Projeto Integrador em Computação II](https://github.com/cintia-shinoda/univesp/tree/master/PI-em-Computacao-II) | 80h | 9,5 |
 
 
-##### [9º Bimestre](https://github.com/cintia-shinoda/univesp/tree/master/9o-Bimestre-2024.3)
+##### [9º Bimestre](https://github.com/cintia-shinoda/univesp/tree/master/09o-Bimestre-2024.3)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
