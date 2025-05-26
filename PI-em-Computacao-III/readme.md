@@ -12,13 +12,13 @@ https://github.com/cintia-shinoda/projeto-integrador-3
 
 ## Entregas
 
-|     | Entrega | Prazo | Notas das Entregas | Parciais |
+|     | Entrega | Prazo | Nota da Entrega | Parcial |
 |:---:|:---:|:-----:|:---:|:---:|
 | &check; | Plano de Ação | 16/03/2025 | 8,4 | 1,26 / 1,5 |
-| &check; | Relatório Parcial | 13/04/2025 |  |  2,25 / 2,5 |
+| &check; | Relatório Parcial | 13/04/2025 | 9 |  2,25 / 2,5 |
 |  | Relatório Final | 25/05/2024 |  |  / 3,5 |
-|  | Vídeo | 25/05/2025 |  |  / 1 |
-|  | Avaliação Colaborativa | 25/05/2025 |  |  / 1,5 |
+| &check; | Vídeo | 25/05/2025 |  |  / 1 |
+| &check; | Avaliação Colaborativa | 25/05/2025 |  |  / 1,5 |
 |  | $\sum$ | - | - | **3,51** |
 
 ---
