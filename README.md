@@ -159,3 +159,21 @@
 |:---:|:---|:---:|:---:|:---:|:---:|
 |  | ELETIVA - [Aplicações em Aprendizado de Máquina](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Aplicacoes-Aprendizado-Maquina) | 80h |  |  |  |
 |  | ADIANTAMENTO - [Planejamento Estratégico de Negócios](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Planejamento-Estrategico-Negocios) | 80h |  |  |  |
+
+<br><br>
+
+---
+
+
+<!-- ### ```7º Semestre```
+|  | Disciplina | Carga Horária | Média Final |
+|:---:|:---|:---:|:---:|
+|  | Projeto Integrador em Computação IV | 80h |  |
+
+
+##### 13º Bimestre
+
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+|  | Impactos da Computação na Sociedade | 80h |  |  |  |
+|  | Redes Neurais | 80h |  |  |  | -->
