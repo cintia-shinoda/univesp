@@ -1,5 +1,11 @@
 ## UNIVESP - Ciência de Dados
 
+
+![GitHub last commit](https://img.shields.io/github/last-commit/cintia-shinoda/univesp)
+![GitHub forks](https://img.shields.io/github/forks/cintia-shinoda/univesp)
+![GitHub stars](https://img.shields.io/github/stars/cintia-shinoda/univesp)
+
+
 ### ```1º Semestre```
 ##### [1º Bimestre - 2022.3](https://github.com/cintia-shinoda/univesp/tree/master/01o-Bimestre-2022.3)
 
