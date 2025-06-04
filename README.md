@@ -1,9 +1,11 @@
 ## UNIVESP - Ciência de Dados
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/cintia-shinoda/univesp)
-![GitHub forks](https://img.shields.io/github/forks/cintia-shinoda/univesp)
-![GitHub stars](https://img.shields.io/github/stars/cintia-shinoda/univesp)
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/cintia-shinoda/univesp" alt="GitHub Last Commit" />
+  <img src="https://img.shields.io/github/forks/cintia-shinoda/univesp" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/stars/cintia-shinoda/univesp" alt="GitHub Stars" />
+</p>
 
 
 ### ```1º Semestre```
@@ -141,7 +143,7 @@
 ### ```6º Semestre```
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
-|  | [Projeto Integrador em Computação III](https://github.com/cintia-shinoda/univesp/tree/master/PI-em-Computacao-III) | 80h |  |
+| &check; | [Projeto Integrador em Computação III](https://github.com/cintia-shinoda/univesp/tree/master/PI-em-Computacao-III) | 80h | 8,45 |
 
 
 ##### [11º Bimestre](https://github.com/cintia-shinoda/univesp/tree/master/11o-Bimestre-2025.1)
@@ -158,13 +160,13 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | [Computação Escalável](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Computacao-Escalavel) | 80h |  |  |  |
-|  | [Aprendizado de Máquinas](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Aprendizado-de-Maquinas) | 80h |  |  |  |
+|  | [Computação Escalável](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Computacao-Escalavel) | 80h | 10 |  |  |
+|  | [Aprendizado de Máquinas](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Aprendizado-de-Maquinas) | 80h | 10 |  |  |
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | ELETIVA - [Aplicações em Aprendizado de Máquina](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Aplicacoes-Aprendizado-Maquina) | 80h |  |  |  |
-|  | ADIANTAMENTO - [Planejamento Estratégico de Negócios](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Planejamento-Estrategico-Negocios) | 80h |  |  |  |
+|  | ELETIVA - [Aplicações em Aprendizado de Máquina](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Aplicacoes-Aprendizado-Maquina) | 80h | 10 |  |  |
+|  | ADIANTAMENTO - [Planejamento Estratégico de Negócios](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Planejamento-Estrategico-Negocios) | 80h | 10 |  |  |
 
 <br><br>
 

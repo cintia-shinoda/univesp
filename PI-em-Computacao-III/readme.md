@@ -16,10 +16,14 @@ https://github.com/cintia-shinoda/projeto-integrador-3
 |:---:|:---:|:-----:|:---:|:---:|
 | &check; | Plano de Ação | 16/03/2025 | 8,4 | 1,26 / 1,5 |
 | &check; | Relatório Parcial | 13/04/2025 | 9 |  2,25 / 2,5 |
-|  | Relatório Final | 25/05/2024 |  |  / 3,5 |
-| &check; | Vídeo | 25/05/2025 |  |  / 1 |
-| &check; | Avaliação Colaborativa | 25/05/2025 |  |  / 1,5 |
-|  | $\sum$ | - | - | **3,51** |
+| &check; | Relatório Final | 25/05/2024 | 7* | 2,45 / 3,5 |
+| &check; | Vídeo | 25/05/2025 | 9,9 | 0,99 / 1 |
+| &check; | Avaliação Colaborativa | 25/05/2025 | 10 | 1,5 / 1,5 |
+|  | $\sum$ | - | - | **8,45** |
+
+*O valor total do critério de avaliação de 10,00 foi substituído por um valor de 7.00 em 10.
+
+Após contato com a supervisão e a devida justificativa sobre os motivos pelos quais o grupo não enviou os termos necessários, foi definido que o desconto na nota do relatório final seria de 30%.
 
 ---
 
