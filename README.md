@@ -8,7 +8,7 @@
 </p>
 
 
-### ```1º Semestre```
+### ```1º Semestre - 2022.2```
 ##### [1º Bimestre - 2022.3](https://github.com/cintia-shinoda/univesp/tree/master/01o-Bimestre-2022.3)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
@@ -33,7 +33,7 @@
 ---
 
 
-### ```2º Semestre```
+### ```2º Semestre - 2023.1```
 ##### [3º Bimestre - 2023.1](https://github.com/cintia-shinoda/univesp/tree/master/03o-Bimestre-2023.1)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
@@ -58,7 +58,7 @@
 ---
 
 
-### ```3º Semestre```
+### ```3º Semestre - 2023.2```
 ##### [5º Bimestre - 2023.3](https://github.com/cintia-shinoda/univesp/tree/master/05o-Bimestre-2023.3)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
@@ -83,7 +83,7 @@
 ---
 
 
-### ```4º Semestre```
+### ```4º Semestre - 2024.1```
 
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
@@ -112,7 +112,7 @@
 ---
 
 
-### ```5º Semestre```
+### ```5º Semestre - 2024.2```
 
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
@@ -140,7 +140,7 @@
 ---
 
 
-### ```6º Semestre```
+### ```6º Semestre - 2025.1```
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
 | &check; | [Projeto Integrador em Computação III](https://github.com/cintia-shinoda/univesp/tree/master/PI-em-Computacao-III) | 80h | 8,45 |
@@ -165,15 +165,19 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | ELETIVA - [Aplicações em Aprendizado de Máquina](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Aplicacoes-Aprendizado-Maquina) | 80h | 10 |  |  |
+|  | ADIANTAMENTO - ELETIVA [Aplicações em Aprendizado de Máquina](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Aplicacoes-Aprendizado-Maquina) | 80h | 10 |  |  |
 |  | ADIANTAMENTO - [Planejamento Estratégico de Negócios](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Planejamento-Estrategico-Negocios) | 80h | 10 |  |  |
 
 <br><br>
 
 ---
 
+<!-- Aplicacoes: 4: 2.4:     6.4
+Aprendizado: 5: 3:     7
+Comp Escalavel: 6     7,6
+Plan  Estratégico: 8   8,8 -->
 
-<!-- ### ```7º Semestre```
+<!-- ### ```7º Semestre - 2025.2```
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
 |  | Projeto Integrador em Computação IV | 80h |  |
@@ -184,12 +188,13 @@
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
 |  | Impactos da Computação na Sociedade | 80h |  |  |  |
-|  | Redes Neurais | 80h |  |  |  | -->
+|  | Redes Neurais | 80h |  |  |  | 
+-->
 
 
 ---
 
-   Copyright 2022-2025 Cintia Izumi Shinoda
+   Copyright 2022-2025 Cintia I. Shinoda
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
