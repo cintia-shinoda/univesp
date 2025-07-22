@@ -173,19 +173,25 @@
 ---
 
 
-<!-- ### ```7º Semestre - 2025.2```
+### ```7º Semestre - 2025.2```
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
 |  | Projeto Integrador em Computação IV | 80h |  |
 
 
-##### 13º Bimestre
+##### [13º Bimestre](https://github.com/cintia-shinoda/univesp/tree/master/13o-Bimestre-2025.3)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
 |  | Impactos da Computação na Sociedade | 80h |  |  |  |
 |  | Redes Neurais | 80h |  |  |  | 
--->
+
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+|  | ADIANTAMENTO - Segurança da Informação | 80h |  |  |  |
+|  | ADIANTAMENTO - Processamento de Linguagem Natural | 80h |  |  |  |
+
+<br>
 
 
 ---
