@@ -2,7 +2,7 @@
 
 | | AVA | semana | início | vencimento | conteúdo |
 |:---:|:---:|:---:|:---:|:---:|:---|
-| | | 1 | 21/07/2025 | 30/07/2025 | Segurança da Informação |
+| | &check; | 1 | 21/07/2025 | 30/07/2025 | Segurança da Informação |
 | | | 2 | 28/07/2025 | 06/08/2025 | Confidencialidade |
 | | | 3 | 04/08/2025 | 13/08/2025 | Códigos de Autenticação de Mensagens e Funções Hash |
 | | | 4 | 11/08/2025 | 20/08/2025 | Criptografia Assimétrica e Certificados Digitais |

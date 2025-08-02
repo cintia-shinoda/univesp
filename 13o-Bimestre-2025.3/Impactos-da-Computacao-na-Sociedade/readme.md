@@ -4,7 +4,7 @@
 
 |   | AVA | semana | início | vencimento | conteúdo |
 |:---:|:---:|:---:|:---:|:---:|:---|
-|  |  | 1 | 21/07/2025 | 30/07/2025 | O profissional de computação: formação e regulamentação da profissão |
+|  | &check; | 1 | 21/07/2025 | 30/07/2025 | O profissional de computação: formação e regulamentação da profissão |
 |  |  | 2 | 28/07/2025 | 06/08/2025 | Ética em computação, gênero e tecnologias |
 |  |  | 3 | 04/08/2025 | 13/08/2025 | Novas tecnologias e as cidades do futuro |
 |  |  | 4 | 11/08/2025 | 20/08/2025 | Sustentabilidade e computação |

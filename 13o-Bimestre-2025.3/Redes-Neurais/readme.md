@@ -4,7 +4,7 @@
 
 |   | AVA | semana | início | vencimento | conteúdo |
 |:---:|:---:|:---:|:---:|:---:|:---|
-|  |  | 1 | 21/07/2025 | 30/07/2025 | Introdução às Redes Neurais Artificiais |
+|  | &check; | 1 | 21/07/2025 | 30/07/2025 | Introdução às Redes Neurais Artificiais |
 |  |  | 2 | 28/07/2025 | 06/08/2025 | Arquiteturas de Redes, Preparação dos Dados e Modelos Lineares |
 |  |  | 3 | 04/08/2025 | 13/08/2025 | Redes Neurais Multiplayer Perceptron (MLP) e ao Algoritmo de Retro-propagação |
 |  |  | 4 | 11/08/2025 | 20/08/2025 | Otimização, Treinamento e Regularização em Redes MLP |
