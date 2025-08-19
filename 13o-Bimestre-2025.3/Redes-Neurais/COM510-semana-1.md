@@ -5,6 +5,9 @@
 ##
 ### Texto-base 1 - Redes Neurais: Princípios e Prática
 ### Videoaula 1 - Introdução às Redes Neurais Artificiais
+https://youtu.be/kzFqGhK8Q2s
+
+
 #### Quiz da videoaula 1
 ### Texto-base 2
 ### Videoaula 2 - O Neurônio Biológico e sua Modelagem Matemática
