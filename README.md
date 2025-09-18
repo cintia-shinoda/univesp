@@ -183,13 +183,23 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | Impactos da Computação na Sociedade | 80h |  |  |  |
-|  | Redes Neurais | 80h |  |  |  | 
+|  | Impactos da Computação na Sociedade | 80h | 10 |  |  |
+|  | Redes Neurais | 80h | 10 |  |  | 
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | ADIANTAMENTO - Segurança da Informação | 80h |  |  |  |
-|  | ADIANTAMENTO - Processamento de Linguagem Natural | 80h |  |  |  |
+|  | ADIANTAMENTO - Segurança da Informação | 80h | 10 |  |  |
+|  | ADIANTAMENTO - Processamento de Linguagem Natural | 80h | 10 |  |  |
+
+<br>
+
+
+
+<!-- ##### [14º Bimestre]()
+|  | Disciplina | Carga Horária | AVA | Prova | Média Final |
+|:---:|:---|:---:|:---:|:---:|:---:|
+|  | Visão Computacional | 80h |  |  |  |
+|  | Aprendizado Profundo | 80h |  |  |  | -->
 
 <br>
 
