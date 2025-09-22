@@ -24,9 +24,9 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| &check; | [Matemática Básica](https://github.com/cintia-shinoda/univesp/tree/master/2o-Bimestre-2022.4/Matem%C3%A1tica%20B%C3%A1sica) | 80h | 10 | 10 | 10 |
-| &check; | [Inglês](https://github.com/cintia-shinoda/univesp/tree/master/2o-Bimestre-2022.4/Ingl%C3%AAs) | 80h | 10 | 10 | 10 |
-| &check; | [Projetos e Métodos para a Produção do Conhecimento](https://github.com/cintia-shinoda/univesp/tree/master/2o-Bimestre-2022.4/Projetos%20e%20M%C3%A9todos%20para%20a%20Produ%C3%A7%C3%A3o%20do%20Conhecimento) | 40h | 10 | 7 | 8,2 |
+| &check; | [Matemática Básica](https://github.com/cintia-shinoda/univesp/tree/master/02o-Bimestre-2022.4/Matematica-Basica) | 80h | 10 | 10 | 10 |
+| &check; | [Inglês](https://github.com/cintia-shinoda/univesp/tree/master/02o-Bimestre-2022.4/Ingles) | 80h | 10 | 10 | 10 |
+| &check; | [Projetos e Métodos para a Produção do Conhecimento](https://github.com/cintia-shinoda/univesp/tree/master/02o-Bimestre-2022.4/Projetos-e-Metodos-para-a-Producao-do-Conhecimento) | 40h | 10 | 7 | 8,2 |
 
 <br><br>
 
