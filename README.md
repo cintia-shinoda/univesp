@@ -165,7 +165,7 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| &check; | ADIANTAMENTO - ELETIVA [Aplicações em Aprendizado de Máquina](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Aplicacoes-Aprendizado-Maquina) | 80h | 10 | 4 | 6,4 |
+| &check; | ADIANTAMENTO - ELETIVA - [Aplicações em Aprendizado de Máquina](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Aplicacoes-Aprendizado-Maquina) | 80h | 10 | 4 | 6,4 |
 | &check; | ADIANTAMENTO - [Planejamento Estratégico de Negócios](https://github.com/cintia-shinoda/univesp/tree/master/12o-Bimestre-2025.2/Planejamento-Estrategico-Negocios) | 80h | 10 | 8 | 8,8 |
 
 <br><br>
@@ -176,30 +176,30 @@
 ### ```7º Semestre - 2025.2```
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
-|  | Projeto Integrador em Computação IV | 80h |  |
+|  | [Projeto Integrador em Computação IV](https://github.com/cintia-shinoda/univesp/tree/master/PI-em-Computacao-IV) | 80h |  |
 
 
 ##### [13º Bimestre](https://github.com/cintia-shinoda/univesp/tree/master/13o-Bimestre-2025.3)
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | Impactos da Computação na Sociedade | 80h | 10 |  |  |
-|  | Redes Neurais | 80h | 10 |  |  | 
+|  | [Impactos da Computação na Sociedade](https://github.com/cintia-shinoda/univesp/tree/master/13o-Bimestre-2025.3/Impactos-da-Computacao-na-Sociedade) | 80h | 10 |  |  |
+|  | [Redes Neurais](https://github.com/cintia-shinoda/univesp/tree/master/13o-Bimestre-2025.3/Redes-Neurais) | 80h | 10 |  |  | 
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | ADIANTAMENTO - Segurança da Informação | 80h | 10 |  |  |
-|  | ADIANTAMENTO - Processamento de Linguagem Natural | 80h | 10 |  |  |
+|  | ADIANTAMENTO - [Segurança da Informação](https://github.com/cintia-shinoda/univesp/tree/master/13o-Bimestre-2025.3/Seguranca-da-Informacao) | 80h | 10 |  |  |
+|  | ADIANTAMENTO - [Processamento de Linguagem Natural](https://github.com/cintia-shinoda/univesp/tree/master/13o-Bimestre-2025.3/Processamento-Linguagem-Natural) | 80h | 10 |  |  |
 
 <br>
 
 
+##### [14º Bimestre](https://github.com/cintia-shinoda/univesp/tree/master/14o-Bimestre-2025.4)
 
-<!-- ##### [14º Bimestre]()
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | Visão Computacional | 80h |  |  |  |
-|  | Aprendizado Profundo | 80h |  |  |  | -->
+|  | [Visão Computacional](https://github.com/cintia-shinoda/univesp/tree/master/14o-Bimestre-2025.4/Visao-Computacional) | 80h |  |  |  |
+|  | [Aprendizado Profundo](https://github.com/cintia-shinoda/univesp/tree/master/14o-Bimestre-2025.4/Aprendizado-Profundo) | 80h |  |  |  |
 
 <br>
 

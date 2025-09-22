@@ -1,4 +1,4 @@
-# COM - Impactos da Computação na Sociedade
+# COM500 - Impactos da Computação na Sociedade
 
 ## Cronograma
 
