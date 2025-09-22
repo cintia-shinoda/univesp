@@ -13,9 +13,9 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| &check; | [Pensamento Computacional](https://github.com/cintia-shinoda/univesp/tree/master/1o-Bimestre-2022.3/Pensamento%20Computacional) | 80h | 10 | 9 | 9,4 |
-| &check; | [Leitura e Produção de Textos](https://github.com/cintia-shinoda/univesp/tree/master/1o-Bimestre-2022.3/Leitura%20e%20Produ%C3%A7%C3%A3o%20de%20Textos) | 80h | 10 | 8 | 8,8 |
-| &check; | [Ética, Cidadania e Sociedade](https://github.com/cintia-shinoda/univesp/tree/master/1o-Bimestre-2022.3/%C3%89tica%2C%20Cidadania%20e%20Sociedade) | 40h | 10 | 7 | 8,2 |
+| &check; | [Pensamento Computacional](https://github.com/cintia-shinoda/univesp/tree/master/01o-Bimestre-2022.3/Pensamento-Computacional) | 80h | 10 | 9 | 9,4 |
+| &check; | [Leitura e Produção de Textos](https://github.com/cintia-shinoda/univesp/tree/master/01o-Bimestre-2022.3/Leitura-e-Producao-de-Textos) | 80h | 10 | 8 | 8,8 |
+| &check; | [Ética, Cidadania e Sociedade](https://github.com/cintia-shinoda/univesp/tree/master/01o-Bimestre-2022.3/Etica-Cidadania-e-Sociedade) | 40h | 10 | 7 | 8,2 |
 
 <br>
 
