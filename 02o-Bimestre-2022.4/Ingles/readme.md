@@ -1,5 +1,8 @@
 # LET100 - Inglês
 
+<!-- ## Docente
+Prof.ª Dr.ª Gisele Novaes Frighetto -->
+
 ## Cronograma
 
 |  | | semana | início | tema |

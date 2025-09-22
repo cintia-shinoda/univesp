@@ -1,5 +1,8 @@
 # INT100 - Projetos e Métodos para a Produção do Conhecimento
 
+## Docente
+Prof. Dr. Fabricio Martins Lacerda
+
 ## Cronograma
 
 |  | | semana | início | entrega | tema |

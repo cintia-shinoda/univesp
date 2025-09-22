@@ -1,5 +1,8 @@
 # MMB002 - Matemática Básica
 
+<!-- ## Docente
+Prof.ª Dr.ª Renata Zotin Gomes de Oliveira -->
+
 ## Cronograma
 
 |  | | semana | início | tema |
