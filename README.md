@@ -183,7 +183,7 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | [Impactos da Computação na Sociedade](https://github.com/cintia-shinoda/univesp/tree/master/13o-Bimestre-2025.3/Impactos-da-Computacao-na-Sociedade) | 80h | 10 |  |  |
+|  | [Impactos da Computação na Sociedade](https://github.com/cintia-shinoda/univesp/tree/master/13o-Bimestre-2025.3/Impactos-da-Computacao-na-Sociedade) | 80h | 10 | 10 | 10 |
 |  | [Redes Neurais](https://github.com/cintia-shinoda/univesp/tree/master/13o-Bimestre-2025.3/Redes-Neurais) | 80h | 10 |  |  | 
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
