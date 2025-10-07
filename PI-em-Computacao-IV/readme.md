@@ -15,7 +15,7 @@ Desenvolver **análise de dados em escala** utilizando algum **conjunto de dados
 |     | Entrega | Prazo | Nota da Entrega | Parcial |
 |:---:|:---:|:-----:|:---:|:---:|
 | &check; | Plano de Ação | 02/09/2025 | 10 | 1,5 / 1,5 |
-|  | Relatório Parcial | 30/09/2025 |  |  |
+| &check; | Relatório Parcial | 30/09/2025 |  |  |
 |  | Relatório Final | 11/11/2025 |  |  |
 |  | Vídeo | 11/11/2025 |  |  |
 |  | Avaliação Colaborativa | 11/11/2025 |  |  |

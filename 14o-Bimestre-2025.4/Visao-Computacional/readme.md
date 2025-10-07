@@ -5,7 +5,7 @@
 |   | AVA | semana | início | vencimento | conteúdo |
 |:---:|:---:|:---:|:---:|:---:|:---|
 |  | &check; | 1 | 22/09/2025 |  | Introdução à Visão Computacional |
-|  |  | 2 | 29/09/2025 |  | Pré-processamento de Imagens |
+|  | &check; | 2 | 29/09/2025 |  | Pré-processamento de Imagens |
 |  |  | 3 | 06/10/2025 |  | Imagens Coloridas e Câmeras |
 |  |  | 4 | 13/10/2025 |  | Aprendizado de Máquina |
 |  |  | 5 | 20/10/2025 |  | Segmentação de Imagens |
