@@ -2,22 +2,13 @@
 
 ## Cronograma
 
-|  | semana | início | vencimento | conteúdo |
-|:---:|:---:|:---:|:---:|:---|
-|  |  | 1 |  |  | Conceitos Gerais |
-|  |  | 2 |  |  | Componentes do Computador |
-|  |  | 3 |  |  | Arquitetura e Organização de Computadores no Apoio Operacional |
-|  |  | 4 |  |  | Arquiteturas Paralelas e Arquiteturas Avançadas |
-|  |  | 5 |  |  | Noções de Linguagem C |
-|  |  | 6 |  |  | Linguagem de Montagem |
-|  |  | 7 |  |  | Linguagem Assembly |
-|  |  | 8 |  |  | Revisão |
-
-<br>
-
-
-## Semana 1 - 
-
-|  |  |  |  |
-|:---:|:---:|:---|:---|
-|  |  |  |  |
+|  | AVA | semana | início | vencimento | conteúdo |
+|:---:|:---:|:---:|:---:|:---:|:---|
+|  | &check; | 1 |  |  | Conceitos Gerais |
+|  | &check; | 2 |  |  | Componentes do Computador |
+|  | &check; | 3 |  |  | Arquitetura e Organização de Computadores no Apoio Operacional |
+|  | &check; | 4 |  |  | Arquiteturas Paralelas e Arquiteturas Avançadas |
+|  | &check; | 5 |  |  | Noções de Linguagem C |
+|  | &check; | 6 |  |  | Linguagem de Montagem |
+|  | &check; | 7 |  |  | Linguagem Assembly |
+|  | - | 8 |  |  | Revisão |

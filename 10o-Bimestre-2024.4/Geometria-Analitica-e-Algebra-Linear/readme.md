@@ -11,4 +11,4 @@
 |  | &check; | 5 |  |  | Vetores no Plano e no Espaço |
 |  | &check; | 6 |  |  | Geometria Analítica no Espaço |
 |  | &check; | 7 |  |  | Transformações Lineares e Espaços Vetoriais |
-|  |  | 8 |  |  | Revisão |
+|  | - | 8 |  |  | Revisão |

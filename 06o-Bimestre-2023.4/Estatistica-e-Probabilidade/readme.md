@@ -11,12 +11,4 @@
 |  | &check; | 5 | 23/10/2023 | 06/11/2023 | Variáveis Aleatórias Contínuas |
 |  | &check; | 6 | 30/10/2023 | 13/11/2023 | Teorema Central do Limite e Leis dos Grandes Números |
 |  | &check; | 7 | 06/11/2023 | 13/11/2023 | Introdução à Inferência Estatística |
-|  |  | 8 | 13/11/2023 | - | Revisão Geral |
-
-<br>
-
-
-## Semana 1 - Introdução à Estatística Descritiva
-
-|  |  |  |  |
-|:---:|:---:|:---|:---|
+|  | - | 8 | 13/11/2023 | - | Revisão Geral |

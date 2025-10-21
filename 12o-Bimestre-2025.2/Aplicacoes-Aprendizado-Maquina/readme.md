@@ -11,4 +11,4 @@
 |  | &check; | 5 | 28/04/2025 | 07/05/2025 | Métodos Simbólicos, Métodos de Maximização de Margens e Avaliação de Modelos Preditivos |
 |  | &check; | 6 | 05/05/2025 | 14/05/2025 | Redes Neurais e Aplicações utilizando Algoritmos de Aprendizado de Máquina |
 |  | &check; | 7 | 05/05/2025 | 14/05/2025 | O Aprendizado de Máquina na prática |
-|  | &check; | 8 | 12/05/2025 | - | Revisão |
+|  | - | 8 | 12/05/2025 | - | Revisão |

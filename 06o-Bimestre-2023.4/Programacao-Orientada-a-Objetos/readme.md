@@ -11,7 +11,7 @@
 |  | &check; | 5 | 23/10/2023 | 06/11/2023 | Conjuntos e Mapas |
 |  | &check; | 6 | 30/10/2023 | 13/11/2023 | Tratamento de Exceções |
 |  | &check; | 7 | 06/11/2023 | 13/11/2023 | Streams, Serialização e Deserialização de Objetos/Uso de Threads em Java e Programação Java para Redes de Computadores |
-|  |  | 8 | 13/11/2023 | - | Revisão |
+|  | - | 8 | 13/11/2023 | - | Revisão |
 
 <br>
 

@@ -11,5 +11,4 @@
 |  | &check; | 5 | 26/02/2024 | 11/03/2024 | Consultas usando SQL |
 |  | &check; | 6 | 04/03/2024 | 17/03/2024 | Consultas combinadas de tabelas usando SQL e Conceitos de View e Data Lake |
 |  | &check; | 7 | 11/03/2024 | 17/03/2024 | Transações e Introdução a Bancos de Dados Não-Relacionais |
-|  |  | 8 | 18/03/2024 | - | Bancos de Dados NoSQL - MongoDB Revisão |
-|  |  | 9 | 18/03/2023 | - | Orientações para Realização da Prova |
+|  | - | 8 | 18/03/2024 | - | Bancos de Dados NoSQL - MongoDB Revisão |

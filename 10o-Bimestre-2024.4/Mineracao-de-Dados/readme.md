@@ -11,4 +11,4 @@
 |  | &check; | 5 | 28/10 | 11/11 | Análise de agrupamento |
 |  | &check; | 6 | 04/11 | 11/11 | Análise de associação |
 |  | &check; | 7 | 04/11 | 11/11 | Detecção de anomalias |
-|  |  | 8 | 28/10 | - | Revisão |
+|  | - | 8 | 28/10 | - | Revisão |
