@@ -176,7 +176,7 @@
 ### ```7º Semestre - 2025.2```
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
-|  | [Projeto Integrador em Computação IV](https://github.com/cintia-shinoda/univesp/tree/master/PI-em-Computacao-IV) | 80h |  |
+| &check; | [Projeto Integrador em Computação IV](https://github.com/cintia-shinoda/univesp/tree/master/PI-em-Computacao-IV) | 80h | 10 |
 
 
 ##### [13º Bimestre](https://github.com/cintia-shinoda/univesp/tree/master/13o-Bimestre-2025.3)
@@ -198,10 +198,18 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | [Visão Computacional](https://github.com/cintia-shinoda/univesp/tree/master/14o-Bimestre-2025.4/Visao-Computacional) | 80h |  |  |  |
-|  | [Aprendizado Profundo](https://github.com/cintia-shinoda/univesp/tree/master/14o-Bimestre-2025.4/Aprendizado-Profundo) | 80h |  |  |  |
+| &check; | [Visão Computacional](https://github.com/cintia-shinoda/univesp/tree/master/14o-Bimestre-2025.4/Visao-Computacional) | 80h | 10 | 10 | 10 |
+|  | [Aprendizado Profundo](https://github.com/cintia-shinoda/univesp/tree/master/14o-Bimestre-2025.4/Aprendizado-Profundo) | 80h | 10 |  |  |
 
-<br>
+<br><br>
+
+<!-- ---
+
+
+### ```8º Semestre - 2026.1```
+|  | Disciplina | Carga Horária | Média Final |
+|:---:|:---|:---:|:---:|
+|  | Trabalho de Conclusão de Curso (TCC) | 80h |  | -->
 
 
 ---
