@@ -16,10 +16,10 @@ Desenvolver **análise de dados em escala** utilizando algum **conjunto de dados
 |:---:|:---:|:-----:|:---:|:---:|
 | &check; | Plano de Ação | 02/09/2025 | 10 | 1,5 / 1,5 |
 | &check; | Relatório Parcial | 30/09/2025 | 10  | 2,5 / 2,5 |
-|  | Relatório Final | 11/11/2025 |  |  |
-|  | Vídeo | 11/11/2025 |  |  |
-|  | Avaliação Colaborativa | 11/11/2025 |  |  |
-|  | $\sum$ | - | - | **4** |
+| &check; | Relatório Final | 11/11/2025 | 10 | 3,5 / 3,5 |
+| &check; | Vídeo | 11/11/2025 | 10 | 1 / 1 |
+| &check; | Avaliação Colaborativa | 11/11/2025 | 10 | 1,5 / 1,5 |
+|  | $\sum$ | - | - | **10** |
 
 ---
 

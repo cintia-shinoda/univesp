@@ -1,4 +1,4 @@
-## UNIVESP - Ciência de Dados
+## UNIVESP - Bacharelado em Ciência de Dados
 
 
 <p align="center">
@@ -199,7 +199,7 @@
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
 | &check; | [Visão Computacional](https://github.com/cintia-shinoda/univesp/tree/master/14o-Bimestre-2025.4/Visao-Computacional) | 80h | 10 | 10 | 10 |
-|  | [Aprendizado Profundo](https://github.com/cintia-shinoda/univesp/tree/master/14o-Bimestre-2025.4/Aprendizado-Profundo) | 80h | 10 |  |  |
+| &check; | [Aprendizado Profundo](https://github.com/cintia-shinoda/univesp/tree/master/14o-Bimestre-2025.4/Aprendizado-Profundo) | 80h | 10 | 9 | 9,4 |
 
 <br><br>
 
