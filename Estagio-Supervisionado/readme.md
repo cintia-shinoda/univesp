@@ -4,7 +4,7 @@
 
 |   | # | módulo |
 |:---:|:---:|:---:|
-|  | 0 | Ambientação |
+| &check; | 0 | Ambientação |
 |  | 1 | Em busca de estágio |
 |  | 2 | Início do estágio |
 |  | 3 | A carreira profissional |
