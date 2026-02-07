@@ -44,9 +44,10 @@ Importante agora é você refletir quais dessas áreas causam maior interesse pa
 
 Se você já teve sucesso na sua busca por uma vaga, ótimo! Basta realizar seu estágio com a melhor dedicação possível. Nesse caso, indicamos a leitura do livro “Estagiário Nota 10” de Maura Mei. Nele, você encontrará importantes reflexões sobre o que prejudica o progresso de um estagiário na empresa e algumas perguntas são respondidas, como: "o que a empresa espera de você?" e "o que fazer para crescer mais?".
 
-###
-[Estagiário Nota 10 | Maura Mei](
+### Estagiário Nota 10 | Maura Mei
+[Estagiário Nota 10 | Maura Mei | Editora Labrador](
 https://ava.univesp.br/webapps/blackboard/execute/blti/launchLink?course_id=_12351_1&content_id=_1533939_1)
+
 
 ### Texto-base: Orientações sobre a busca da vaga | Edvaldo Assunção
 

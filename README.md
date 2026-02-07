@@ -203,18 +203,35 @@
 
 <br><br>
 
-<!-- ---
+---
 
 
 ### ```8º Semestre - 2026.1```
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
-|  | Trabalho de Conclusão de Curso (TCC) | 80h |  | -->
+|  | [Trabalho de Conclusão de Curso (TCC)](https://github.com/cintia-shinoda/univesp/tree/master/TCC) | 80h |  |
 
+<br><br>
 
 ---
 
-   Copyright 2022-2025 Cintia I. Shinoda
+
+### [```Atividades Complementares```](https://github.com/cintia-shinoda/univesp/tree/master/Atividades-Complementares)
+
+<br>
+
+---
+
+### [```Estágio Supervisionado```](https://github.com/cintia-shinoda/univesp/tree/master/Estagio-Supervisionado)
+
+<br>
+
+---
+
+
+### 
+
+   Copyright 2022-2026 Cintia I. Shinoda
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
