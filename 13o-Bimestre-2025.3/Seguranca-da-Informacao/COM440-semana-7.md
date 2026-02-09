@@ -27,6 +27,10 @@
 
 ## Aprofundando o Tema
 
+## Em Síntese
+
+---
+
 ## Atividade Avaliativa - Semana 7
 
-## Em Síntese
+<!-- <img src="imagens/semana-7/s7-q1.png" alt="Semana 7 - Questão 1" size="100%" position="center" /> -->

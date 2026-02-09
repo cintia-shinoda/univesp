@@ -80,7 +80,7 @@ https://ava.univesp.br/webapps/blackboard/execute/blti/launchLink?course_id=_123
 ## Em Síntese
 - [ ] Entendi como são os processos seletivos;
 - [ ] Sei o que devo priorizar para conseguir minha vaga de estágio;
-- [ ] Criei meu perfil no Linkedin;
+- [ ] Criei meu perfil no LinkedIn;
 - [ ] Montei meu minicurrículo;
 - [ ] Escrevi minha carta de apresentação;
 - [ ] Visitei alguns sites de busca de estágio.
