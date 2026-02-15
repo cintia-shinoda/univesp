@@ -17,6 +17,12 @@
 
 ## Quiz Objeto Educacional
 
+---
+
 ## Atividade Avaliativa - Semana 2
+
+<!-- <img src="imagens/semana-2/s2-q1.png" alt="Semana 2 - Questão 1" size="100%" position="center" /> -->
+
+---
 
 ## Em Síntese

@@ -26,6 +26,12 @@
 
 ## Exercício de Apoio
 
+---
+
 ## Atividade Avaliativa - Semana 4
+
+<!-- <img src="imagens/semana-4/s4-q1.png" alt="Semana 4 - Questão 1" size="100%" position="center" /> -->
+
+---
 
 ## Em Síntese
