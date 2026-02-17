@@ -31,6 +31,10 @@
 
 ## Atividade Avaliativa - Semana 1
 
+<img src="imagens/semana-1/s1-q1-q2.png" alt="Semana 1 - Questões 1 e 2" size="100%" position="center" />
+
+<img src="imagens/semana-1/s1-q3-q4.png" alt="Semana 1 - Questões 3 e 4" size="100%" position="center" />
+
 ## Desafio
 
 ## Em Síntese
