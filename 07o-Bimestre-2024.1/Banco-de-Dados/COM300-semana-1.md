@@ -1,5 +1,6 @@
-## Semana 1 - Introdução a Banco de Dados e Modelo Entidade-Relacionamento
+# Semana 1 - Introdução a Banco de Dados e Modelo Entidade-Relacionamento
 
+##
 ### Videoaula 1 - Visão geral sobre Banco de Dados
 https://youtu.be/Uua7T2Dzndk
 
@@ -39,3 +40,20 @@ https://youtu.be/Uua7T2Dzndk
 #### Linguagens
 ##### DDL
 ##### DML
+
+
+---
+
+## Atividade Avaliativa - Semana 1
+
+<img src="imagens/semana-1/s1-q1.png" alt="Semana 1 - Questão 1" size="100%" position="center" />
+
+<img src="imagens/semana-1/s1-q2.png" alt="Semana 1 - Questão 2" size="100%" position="center" />
+
+<img src="imagens/semana-1/s1-q3.png" alt="Semana 1 - Questão 3" size="100%" position="center" />
+
+<img src="imagens/semana-1/s1-q4.png" alt="Semana 1 - Questão 4" size="100%" position="center" />
+
+---
+
+## Em Síntese
