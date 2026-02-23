@@ -1,5 +1,7 @@
 # MCA502 - Cálculo II
 
+[Playlist](https://youtube.com/playlist?list=PLxI8Can9yAHdMv9jKECvjfEaKXIoDEk-S&)
+
 ## Cronograma
 
 |   | AVA | semana | início | vencimento | conteúdo |
