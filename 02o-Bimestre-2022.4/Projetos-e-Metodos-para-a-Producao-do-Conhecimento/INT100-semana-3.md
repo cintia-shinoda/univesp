@@ -1,0 +1,1 @@
+# Semana 3 - Comunicação Científica: Rigor e Ética em Pesquisa

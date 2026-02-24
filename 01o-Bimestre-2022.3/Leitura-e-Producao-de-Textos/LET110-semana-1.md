@@ -1,4 +1,4 @@
-# SEMANA 1 - AS FUNÇÕES SOCIAIS DA LEITURA E DA ESCRITA
+# Semana 1 - As Funções Sociais da Leitura e da Escrita
 
 
 ## Videoaula - Funções sociais da escrita

@@ -1,4 +1,4 @@
-# SEMANA 3 - AS RELAÇÕES ENTRE A LEITURA E A ESCRITA
+# Semana 3 - As Relações entre a Leitura e a Escrita
 
 
 ## Objetivos da semana

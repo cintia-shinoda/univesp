@@ -1,4 +1,4 @@
-# SEMANA 2 - AS CONCEPÇÕES DE LINGUAGEM
+# Semana 2 - As Concepções De Linguagem
 
 
 ## Objetivos da semana:

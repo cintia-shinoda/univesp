@@ -1,4 +1,4 @@
-# SEMANA 4 - COESÃO E COERÊNCIA
+# Semana 4 - Coesão e Coerência
 
 
 ## Objetivos da semana:

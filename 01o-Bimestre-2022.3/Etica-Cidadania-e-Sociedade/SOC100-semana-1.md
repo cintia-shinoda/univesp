@@ -1,4 +1,4 @@
-# SEMANA 1 - FUNDAMENTANDO OS TERMOS
+# Semana 1 - Fundamentando os Termos
 
 ## Objetivos da semana
 - compreender os conceitos de ética, cidadania e sociedade;

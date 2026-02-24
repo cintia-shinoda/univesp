@@ -1,4 +1,4 @@
-# SEMANA 6 - DISCURSO & ADEQUAÇÃO
+# Semana 6 - Discurso & Adequação
 
 
 ## Objetivos da semana

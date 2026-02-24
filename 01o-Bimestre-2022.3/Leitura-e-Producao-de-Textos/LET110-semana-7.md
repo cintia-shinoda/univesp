@@ -1,4 +1,4 @@
-# SEMANA 7 - TÁTICAS DE REVISÃO E REESCRITA
+# Semana 7 - Táticas de Revisão e Reescrita
 
 
 ## Objetivos da semana

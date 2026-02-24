@@ -1,4 +1,4 @@
-# SEMANA 5 - INFORMATIVIDADE & CLAREZA
+# Semana 5 - Informatividade & Clareza
 
 
 ## Objetivos da semana

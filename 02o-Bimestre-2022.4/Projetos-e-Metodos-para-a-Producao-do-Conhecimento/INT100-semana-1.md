@@ -1,4 +1,4 @@
-# SEMANA 1 - SENSO COMUM E CIÊNCIA
+# Semana 1 - Senso Comum e Ciência
 
 ## Videoaula - Senso Comum e Ciência
 

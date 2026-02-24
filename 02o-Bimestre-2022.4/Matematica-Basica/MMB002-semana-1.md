@@ -1,4 +1,4 @@
-# SEMANA 1 - NÚMEROS NATURAIS E SUAS OPERAÇÕES
+# Semana 1 - Números Naturais e suas Operações
 
 ## Objetivos da semana
 - Conhecer historicamente como sugiram os números;
