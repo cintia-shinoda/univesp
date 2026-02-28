@@ -1,4 +1,4 @@
-## SEMANA 1 - CONCEITOS BÁSICOS: LÓGICA FORMAL
+## Semana 1 - Conceitos Básicos: Lógica Formal
 
 [] videoaula “Proposições, Representações Simbólicas e Tautologias” 
 [] leitura a seção 1.1 do texto-base “Fundamentos Matemáticos para Ciência da Computação” de Judith L. Gersting. 
@@ -10,9 +10,21 @@
 [] leitura da seção 1.3 do mesmo texto-base
 [] solucione os exercícios práticos propostos.
 
+##
 
-## Videoaula 0 - Revisitando Conhecimentos
+### Videoaula 0 - Revisitando Conhecimentos
 - Operações lógicas e tabela-verdade
 
 
-## Videoaula 1 - 
+### Videoaula 1 - Proposições, Representações Simbólicas e Tautologias
+https://youtu.be/JKRd6q3YLmk
+
+
+### Videoaula 2 - Lógica Proposicional
+https://youtu.be/QgpvgNI5Rug
+
+
+### Videoaula 3 - Quantificadores, Predicados e Validade
+https://youtu.be/lsVo9J59fIg
+
+
