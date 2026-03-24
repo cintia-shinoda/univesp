@@ -216,13 +216,13 @@
 ---
 
 
-### [```Atividades Complementares```](https://github.com/cintia-shinoda/univesp/tree/master/Atividades-Complementares)
+### [```Atividades Complementares```](https://github.com/cintia-shinoda/univesp/blob/master/Atividades-Complementares/Relatorio-APP.pdf)
 
 <br>
 
 ---
 
-### [```Estágio Supervisionado```](https://github.com/cintia-shinoda/univesp/tree/master/Estagio-Supervisionado)
+### [```Estágio Supervisionado```](https://github.com/cintia-shinoda/univesp/tree/master/Estagio-Supervisionado/Relatorio-Final-sec.pdf)
 
 <br>
 
