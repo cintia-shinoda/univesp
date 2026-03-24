@@ -38,9 +38,9 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| &check; | [Algoritmos e Programação de Computadores I](https://github.com/cintia-shinoda/univesp/tree/master/3o-Bimestre-2023.1/Algoritmos-e-Programacao-de-Computadores-I) | 80h | 10 | 10 | 10 |
-| &check; | [Cálculo I](https://github.com/cintia-shinoda/univesp/tree/master/3o-Bimestre-2023.1/Calculo-I) | 80h | 10 | 7 | 8,2 |
-| &check; | [Introdução a Conceitos de Computação](https://github.com/cintia-shinoda/univesp/tree/master/3o-Bimestre-2023.1/Intro-a-Conceitos-de-Computacao) | 40h | 10 | 7 | 8,2 |
+| &check; | [Algoritmos e Programação de Computadores I](https://github.com/cintia-shinoda/univesp/tree/master/03o-Bimestre-2023.1/Algoritmos-e-Programacao-de-Computadores-I) | 80h | 10 | 10 | 10 |
+| &check; | [Cálculo I](https://github.com/cintia-shinoda/univesp/tree/master/03o-Bimestre-2023.1/Calculo-I) | 80h | 10 | 7 | 8,2 |
+| &check; | [Introdução a Conceitos de Computação](https://github.com/cintia-shinoda/univesp/tree/master/03o-Bimestre-2023.1/Intro-a-Conceitos-de-Computacao) | 40h | 10 | 7 | 8,2 |
 
 <br>
 
@@ -49,9 +49,9 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| &check; | [Algoritmos e Programação de Computadores II](https://github.com/cintia-shinoda/univesp/tree/master/4o-Bimestre-2023.2/Algoritmos-e-Programacao-de-Computadores-II) | 80h | 10 | 8 | 8,8 |
-| &check; | [Fundamentos Matemáticos para Computação](https://github.com/cintia-shinoda/univesp/tree/master/4o-Bimestre-2023.2/Fundamentos-de-Internet-e-Web) | 80h | 10 | 7 | 8,2 |
-| &check; | [Fundamentos de Internet e Web](https://github.com/cintia-shinoda/univesp/tree/master/4o-Bimestre-2023.2/Fundamentos-Matematicos-para-Computacao) | 40h | 10 | 8 | 8,8 |
+| &check; | [Algoritmos e Programação de Computadores II](https://github.com/cintia-shinoda/univesp/tree/master/04o-Bimestre-2023.2/Algoritmos-e-Programacao-de-Computadores-II) | 80h | 10 | 8 | 8,8 |
+| &check; | [Fundamentos Matemáticos para Computação](https://github.com/cintia-shinoda/univesp/tree/master/04o-Bimestre-2023.2/Fundamentos-Matematicos-para-Computacao) | 80h | 10 | 7 | 8,2 |
+| &check; | [Fundamentos de Internet e Web](https://github.com/cintia-shinoda/univesp/tree/master/04o-Bimestre-2023.2/Fundamentos-de-Internet-e-Web) | 40h | 10 | 8 | 8,8 |
 
 <br><br>
 
@@ -63,9 +63,9 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| &check; | [Sistemas Computacionais](https://github.com/cintia-shinoda/univesp/tree/master/5o-Bimestre-2023.3/Sistemas-Computacionais) | 80h | 10 | 7 | 8,2 |
-| &check; | [Estruturas de Dados](https://github.com/cintia-shinoda/univesp/tree/master/5o-Bimestre-2023.3/Estruturas-de-Dados) | 80h | 10 | 6 | 7,6 |
-| &check; | [Formação Profissional em Computação](https://github.com/cintia-shinoda/univesp/tree/master/5o-Bimestre-2023.3/Formacao-Profissional-em-Computacao) | 40h | 10 | 10 | 10 |
+| &check; | [Sistemas Computacionais](https://github.com/cintia-shinoda/univesp/tree/master/05o-Bimestre-2023.3/Sistemas-Computacionais) | 80h | 10 | 7 | 8,2 |
+| &check; | [Estruturas de Dados](https://github.com/cintia-shinoda/univesp/tree/master/05o-Bimestre-2023.3/Estruturas-de-Dados) | 80h | 10 | 6 | 7,6 |
+| &check; | [Formação Profissional em Computação](https://github.com/cintia-shinoda/univesp/tree/master/05o-Bimestre-2023.3/Formacao-Profissional-em-Computacao) | 40h | 10 | 10 | 10 |
 
 <br>
 
@@ -74,9 +74,9 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| &check; | [Estatística e Probabilidade](https://github.com/cintia-shinoda/univesp/tree/master/6o-Bimestre-2023.4/Estatistica-e-Probabilidade) | 80h | 10 | 7 | 8,2 |
-| &check; | [Programação Orientada a Objetos](https://github.com/cintia-shinoda/univesp/tree/master/6o-Bimestre-2023.4/Programacao-Orientada-a-Objetos) | 80h | 10 | 8 | 8,8 |
-| &check; | [Gestão da Inovação e Desenvolvimento de Produtos](https://github.com/cintia-shinoda/univesp/tree/master/6o-Bimestre-2023.4/Gestao-da-Inovacao-e-Desenvolvimento-de-Produtos) | 40h | 10 | 8 | 8,8 |
+| &check; | [Estatística e Probabilidade](https://github.com/cintia-shinoda/univesp/tree/master/06o-Bimestre-2023.4/Estatistica-e-Probabilidade) | 80h | 10 | 7 | 8,2 |
+| &check; | [Programação Orientada a Objetos](https://github.com/cintia-shinoda/univesp/tree/master/06o-Bimestre-2023.4/Programacao-Orientada-a-Objetos) | 80h | 10 | 8 | 8,8 |
+| &check; | [Gestão da Inovação e Desenvolvimento de Produtos](https://github.com/cintia-shinoda/univesp/tree/master/06o-Bimestre-2023.4/Gestao-da-Inovacao-e-Desenvolvimento-de-Produtos) | 40h | 10 | 8 | 8,8 |
 
 <br><br>
 
@@ -94,8 +94,8 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| &check; | [Banco de Dados](https://github.com/cintia-shinoda/univesp/tree/master/7o-Bimestre-2024.1/Banco-de-Dados) | 80h | 10 | 7 | 8,2 |
-| &check; | [Cálculo II](https://github.com/cintia-shinoda/univesp/tree/master/7o-Bimestre-2024.1/Calculo-II) | 80h | 10 | 4 | 6,4 |
+| &check; | [Banco de Dados](https://github.com/cintia-shinoda/univesp/tree/master/07o-Bimestre-2024.1/Banco-de-Dados) | 80h | 10 | 7 | 8,2 |
+| &check; | [Cálculo II](https://github.com/cintia-shinoda/univesp/tree/master/07o-Bimestre-2024.1/Calculo-II) | 80h | 10 | 4 | 6,4 |
 
 <br>
 
@@ -104,8 +104,8 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| &check; | [Desenvolvimento Web](https://github.com/cintia-shinoda/univesp/tree/master/8o-Bimestre-2024.2/Desenvolvimento-Web) | 80h | 10 | 8 | 8,8 |
-| &check; | [Introdução à Ciência de Dados](https://github.com/cintia-shinoda/univesp/tree/master/8o-Bimestre-2024.2/Intro-Ciencia-de-Dados) | 80h | 10 | 10 | 10 |
+| &check; | [Desenvolvimento Web](https://github.com/cintia-shinoda/univesp/tree/master/08o-Bimestre-2024.2/Desenvolvimento-Web) | 80h | 10 | 8 | 8,8 |
+| &check; | [Introdução à Ciência de Dados](https://github.com/cintia-shinoda/univesp/tree/master/08o-Bimestre-2024.2/Intro-Ciencia-de-Dados) | 80h | 10 | 10 | 10 |
 
 <br><br>
 
@@ -123,8 +123,8 @@
 
 |  | Disciplina | Carga Horária | AVA | Prova | Média Final |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| &check; | [Modelagem e Inferência Estatística](https://github.com/cintia-shinoda/univesp/tree/master/9o-Bimestre-2024.3/Modelagem-Inferencia-Estatistica) | 80h | 10 | 7 | 8,2 |
-| &check; | [Engenharia de Software](https://github.com/cintia-shinoda/univesp/tree/master/9o-Bimestre-2024.3/Engenharia-Software) | 80h | 10 | 8 | 8,8 |
+| &check; | [Modelagem e Inferência Estatística](https://github.com/cintia-shinoda/univesp/tree/master/09o-Bimestre-2024.3/Modelagem-Inferencia-Estatistica) | 80h | 10 | 7 | 8,2 |
+| &check; | [Engenharia de Software](https://github.com/cintia-shinoda/univesp/tree/master/09o-Bimestre-2024.3/Engenharia-Software) | 80h | 10 | 8 | 8,8 |
 
 <br>
 
