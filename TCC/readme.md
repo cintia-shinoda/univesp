@@ -19,13 +19,12 @@ https://github.com/cintia-shinoda/public-transit-graph-theory
 
 |     | Entrega | Prazo | Nota da Entrega | Parcial |
 |:---:|:---:|:-----:|:---:|:---:|
-| &check; | Projeto de Pesquisa | 07/04/2026 | 10 / 10 | 1,5 / 1,5 |
+| &check; | [Projeto de Pesquisa](https://github.com/cintia-shinoda/univesp/blob/master/TCC/0-Projeto-de-Pesquisa/Projeto-de-Pesquisa.pdf) | 07/04/2026 | 10 / 10 | 1,5 / 1,5 |
 |  | 2ª Entrega | 19/05/2026 |  |  |
 |  | 3ª Entrega | 02/06/2026 |  |  |
 
 
 ---
-
 
 
 ## Temas das Quinzenas
@@ -38,4 +37,4 @@ https://github.com/cintia-shinoda/public-transit-graph-theory
 | 4 | 13/04/2026 | Pesquisas |
 | 5 | 27/04/2026 | Coleta de Dados |
 | 6 | 11/05/2026 | <ul><li>Análise, Discussão dos Resultados e Considerações Finais</li><li>**2ª Entrega**</li></ul> |
-| 7 | 25/05/2026 | <ul><li>Revisão Final</li><li>**3ª Entrega**</li></ul> | 
+| 7 | 25/05/2026 | <ul><li>Revisão Final</li><li>**3ª Entrega**</li></ul> |
