@@ -197,7 +197,7 @@ Itens avaliados: Estrutura do TCC, desenvolvimento, métodos, resultados, consid
 
 ### Rubrica
 
-
+<img src="q7-rubrica.png" alt="Rubrica de avaliação do TCC" width="100%">
 
 > A rubrica de avaliação das entregas parciais 1 e 2 servem para os orientadores realizarem a avaliação formativa. A partir do projeto de pesquisa (entrega 1) e do desenvolvimento do projeto (entrega 2), o aluno terá um retorno de que está no caminho certo para adquirir determinada competência. 
 > São 9,0 pontos para o orientador avaliar as competências que o grupo de alunos desenvolveu. O ponto restante será uma avaliação do orientador sobre a colaboração individual de cada integrante no TCC.
