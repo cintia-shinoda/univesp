@@ -209,7 +209,7 @@
 ### ```8º Semestre - 2026.1```
 |  | Disciplina | Carga Horária | Média Final |
 |:---:|:---|:---:|:---:|
-|  | [Trabalho de Conclusão de Curso (TCC)](https://github.com/cintia-shinoda/univesp/tree/master/TCC) | 80h |  |
+| &check; | [Trabalho de Conclusão de Curso (TCC)](https://github.com/cintia-shinoda/univesp/tree/master/TCC) | 80h | 10,0 |
 
 <br><br>
 

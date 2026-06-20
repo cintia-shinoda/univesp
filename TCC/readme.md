@@ -7,9 +7,14 @@
 ---
 
 
+## TCC
+https://github.com/cintia-shinoda/univesp/blob/master/TCC/TCC.pdf
 
 ## Repositório
 https://github.com/cintia-shinoda/public-transit-graph-theory
+
+
+
 
 ---
 
@@ -21,7 +26,7 @@ https://github.com/cintia-shinoda/public-transit-graph-theory
 |:---:|:---:|:-----:|:---:|:---:|
 | &check; | [Projeto de Pesquisa](https://github.com/cintia-shinoda/univesp/blob/master/TCC/1_Projeto-de-Pesquisa/Projeto-de-Pesquisa.pdf) | 07/04/2026 | 10 / 10 | 1,5 / 1,5 |
 | &check; | [2ª Entrega](https://github.com/cintia-shinoda/univesp/blob/master/TCC/2_2a-Entrega/2a-Entrega.pdf) | 19/05/2026 | 10 / 10 | 1,5 / 1,5 |
-| &check; | 3ª Entrega | 02/06/2026 | 10 / 10 | 7 / 7 |
+| &check; | [3ª Entrega](https://github.com/cintia-shinoda/univesp/blob/master/TCC/TCC.pdf) | 02/06/2026 | 10 / 10 | 7 / 7 |
 | - | **Nota Final** | - | - | **10,0 / 10,0** |
 
 
