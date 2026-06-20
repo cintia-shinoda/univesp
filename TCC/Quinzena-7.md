@@ -370,7 +370,10 @@ Pontuação máxima 	1,0
 
 
 ## Texto-base: Trabalho de conclusão de curso (TCC): uma abordagem leve, divertida e prática 
+
 - Leia o capítulo 16 | Silvia Pereira de Castro
+ 
+NOGUEIRA, Daniel R.; LEAL, Edvalda A.; NOVA, Silvia Pereira de Castro C.; et al. Trabalho de conclusão de curso (TCC): uma abordagem leve, divertida e prática. Rio de Janeiro: Saraiva Uni, 2020. E-book. p.289. ISBN 9788571440708. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9788571440708/. Acesso em: mai. 2026.
 
 - Depois de todo este trabalho, o que fazer? Agora é hora de divulgar todo este trabalho para a Academia. Tem vários eventos e revistas científicas que podem receber o seu trabalho. Não se esqueça de que, para acessar este livro, você antes precisa fazer o login na plataforma desta biblioteca.
 
